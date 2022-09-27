@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programing/Vim/단축키.md",
+            "file": "Dictionary/Vim/단축키.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Vim/단축키.md",
+                "file": "Dictionary/Vim/단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programing/Vim/단축키.md",
+                "file": "Dictionary/Vim/단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/Vim/단축키.md"
+                "file": "Dictionary/Vim/단축키.md"
               }
             }
           }
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5be783498044f9e",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
     "Programing/무제노트.md",
     "Template/프로젝트 아이디어.md",
