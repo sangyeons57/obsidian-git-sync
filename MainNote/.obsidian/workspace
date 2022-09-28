@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/아이디어.md",
+            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/아이디어.md",
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/아이디어.md",
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/아이디어.md"
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "e5be783498044f9e",
   "lastOpenFiles": [
-    "Template/프로젝트 계획.md",
     "Template/사전.md",
-    "Template/주간노트 제목.md",
     "Template/아이디어.md",
+    "Template/프로젝트 계획.md",
+    "Template/주간노트 제목.md",
     "Template/주간노트 내용.md",
     "Template/base 일반.md",
     "Template/asset.md",
