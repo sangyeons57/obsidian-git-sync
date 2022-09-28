@@ -44,7 +44,8 @@ flatMap)
 ### 외부문서
 - [flatmap 과 map 의 차이 01](https://www.baeldung.com/java-difference-map-and-flatmap)
 - [flatmpa과 map 의 차이 02](https://madplay.github.io/post/difference-between-map-and-flatmap-methods-in-java)
--  
+-  [03](https://mangkyu.tistory.com/115)
+
 ----
 ### 업데이트
 -  2022/09/28 (수요일) - 15:04 : 첫 작성
