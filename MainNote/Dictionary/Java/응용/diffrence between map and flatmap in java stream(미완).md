@@ -25,6 +25,8 @@
 `map` 메서드는 스트림의 스트림을 반환하는 반면에 `flatMap` 메서드는 스트림을 반환한다고 보면 된다. 
 특히 스트림의 형태가 배열인 경우 또는 입력된 값을 또 다시 스트림의 형태로 반환하고자 할 때는 `flatMap`이 유용하다.
 
+`flatmap` 은 값을 돌려줄
+
 ----
 ### 외부문서
 - [flatmap 과 map 의 차이 01](https://www.baeldung.com/java-difference-map-and-flatmap)
