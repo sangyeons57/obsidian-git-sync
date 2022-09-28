@@ -1,10 +1,10 @@
 # 제목 : stream 에서 flatmap 과 map 의 차이
 
-## 분류 : #java #stream
+## 분류 : #java #stream #map_flatmap
 
 ---
 ## 관련문서
-- [[stream (미완)]]
+- [[stream()]]
 - [[stream - map (미완)]]
 - [[stream - flatmap (미완)]]
 
