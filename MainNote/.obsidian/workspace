@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/stream().md",
+            "file": "Dictionary/Java/기초/List.of().md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/stream().md",
+            "file": "Dictionary/Java/기초/List.of().md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -37,7 +37,7 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": true,
+              "collapse-display": false,
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/stream().md",
+                "file": "Dictionary/Java/기초/List.of().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/stream().md",
+                "file": "Dictionary/Java/기초/List.of().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/stream().md"
+                "file": "Dictionary/Java/기초/List.of().md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
-    "Dictionary/Java/기초/stream().md",
+    "Dictionary/Java/기초/Arrays.asList() (미완).md",
+    "2022-09-28.md",
+    "Dictionary/Java/기초/List.of().md",
+    "Dictionary/Java/무제노트.md",
     "Dictionary/Java/기초/stream - map (미완).md",
+    "Dictionary/Java/기초/stream - flatmap (미완).md",
+    "Dictionary/Java/기초/stream().md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
     "Template/📗사전📗.md",
-    "Template/🗓️프로젝트 계획🗓️.md",
-    "Template/주간노트 제목.md",
-    "Template/YYYY - MM - DD  (time).md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md",
-    "Template/주간노트 내용.md",
-    "Template/💡아이디어💡.md"
+    "Template/🗓️프로젝트 계획🗓️.md"
   ]
 }
