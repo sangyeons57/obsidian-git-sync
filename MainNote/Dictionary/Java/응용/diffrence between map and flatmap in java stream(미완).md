@@ -15,10 +15,15 @@
 ---
 ### 내용
 
+`map` 메서드를 사용하면 단일 스트림 안의 요소를 원하는 특정 형태로 변환할 수 있습니다. 아래 코드로 살펴봅시다.
+`flatMap` 메서드는 스트림의 형태가 배열과 같을 때, 모든 원소를 단일 원소 스트림으로 반환할 수 있습니다. 아래 코드로 살펴봅시다. 2차원 배열에서 문자열의 길이가 3 보다 큰 문자열을 출력하는 코드입니다.
+
+
 ----
 ### 외부문서
 - [flatmap 과 map 의 차이 01](https://www.baeldung.com/java-difference-map-and-flatmap)
-- 
+- [flatmpa과 map 의 차이 02](https://madplay.github.io/post/difference-between-map-and-flatmap-methods-in-java)
+-  
 ----
 ### 업데이트
 -  2022/09/28 (수요일) - 15:04 : 첫 작성

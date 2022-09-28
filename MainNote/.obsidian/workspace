@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/stream - flatmap (미완).md",
+            "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/stream - flatmap (미완).md",
+            "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/stream - flatmap (미완).md",
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/stream - flatmap (미완).md",
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/stream - flatmap (미완).md"
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "e5be783498044f9e",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/stream - flatmap (미완).md",
     "Dictionary/Java/기초/stream (미완).md",
     "Template/📗사전📗.md",
     "Dictionary/Java/기초/stream - map (미완).md",
@@ -177,7 +178,6 @@
     "Template/주간노트 제목.md",
     "Template/YYYY - MM - DD  (time).md",
     "Template/💡아이디어💡.md",
-    "Template/🎨asset🎨.md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md"
+    "Template/🎨asset🎨.md"
   ]
 }
