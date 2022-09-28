@@ -1,2 +1,2 @@
 
- {{date}} -  {{time}}  
+ {{date}} - {{time}}
