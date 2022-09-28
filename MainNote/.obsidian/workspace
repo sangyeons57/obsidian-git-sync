@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/stream - map (미완).md",
+            "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "7b8f80f7d2483045"
+      },
+      {
+        "id": "8eeb94d934e242ad",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "7b8f80f7d2483045"
       }
     ],
     "direction": "vertical"
@@ -40,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#stream",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/stream - map (미완).md",
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/stream - map (미완).md",
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/stream - map (미완).md"
+                "file": "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md"
               }
             }
           }
@@ -128,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5be783498044f9e",
+  "active": "13af45f495d913bb",
   "lastOpenFiles": [
     "Dictionary/Java/기초/stream (미완).md",
-    "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md",
     "Dictionary/Java/기초/stream - map (미완).md",
+    "Template/YYYY - MM - DD  (time).md",
     "Template/💡아이디어💡.md",
     "Template/🎨asset🎨.md",
+    "Dictionary/Java/응용/diffrence between map and flatmap in java stream(미완).md",
+    "Dictionary/Java/기초/stream - flatmap (미완).md",
     "Template/📗사전📗.md",
     "Template/🗓️프로젝트 계획🗓️.md",
-    "Template/주간노트 내용.md",
-    "Template/주간노트 제목.md"
+    "Template/주간노트 내용.md"
   ]
 }
