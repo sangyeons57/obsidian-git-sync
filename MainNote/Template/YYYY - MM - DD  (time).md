@@ -1,2 +1,2 @@
 
- {{date:YYYY / MM / DD (dd)}}( ) - {{time}}  
+ {{date}} -  {{time}}  
