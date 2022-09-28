@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13af45f495d913bb",
+  "active": "e5be783498044f9e",
   "lastOpenFiles": [
     "Dictionary/Java/기초/stream (미완).md",
     "Dictionary/Java/기초/stream - map (미완).md",
