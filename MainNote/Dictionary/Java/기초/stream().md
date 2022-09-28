@@ -69,8 +69,8 @@ DoubleStream doubleStream = DoubleStream.of(0, 3);
 ----
 ### 외부문서
 - [stream 01](https://madplay.github.io/post/introduction-to-java-streams)
+- [streamOf_01](https://mangkyu.tistory.com/115)
 
-----
 ### 업데이트
 -  2022/09/28( 수요일 ) - 14:09 : 첫 작성
 -  2022/09/28 (수요일) -  19:01 : 외부링크 추가밑 내용 추가  
