@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/사전.md",
+            "file": "Template/🎨asset🎨.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/사전.md",
+                "file": "Template/🎨asset🎨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/사전.md",
+                "file": "Template/🎨asset🎨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/사전.md"
+                "file": "Template/🎨asset🎨.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "e5be783498044f9e",
   "lastOpenFiles": [
+    "Template/주간노트 제목.md",
+    "Template/🎨asset🎨.md",
+    "Template/🗓️프로젝트 계획🗓️.md",
+    "Template/📗사전📗.md",
+    "Template/💡아이디어💡.md",
     "Dictionary/Java/기초/무제노트.md",
     "Dictionary/Vim/기초/단축키/창이동.md",
     "Template/YYYY - MM - DD  (time).md",
-    "Template/사전.md",
     "Template/base 일반.md",
-    "Template/프로젝트 계획.md",
-    "Template/아이디어.md",
-    "Template/주간노트 내용.md",
-    "Template/주간노트 제목.md",
-    "Template/asset.md"
+    "Template/주간노트 내용.md"
   ]
 }
