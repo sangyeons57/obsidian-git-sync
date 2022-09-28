@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/List.of().md",
+            "file": "2022-09-28.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/List.of().md",
+            "file": "2022-09-28.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/List.of().md",
+                "file": "2022-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/List.of().md",
+                "file": "2022-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/List.of().md"
+                "file": "2022-09-28.md"
               }
             }
           }
@@ -170,12 +170,12 @@
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
     "Dictionary/Java/기초/Arrays.asList() (미완).md",
+    "Dictionary/Java/기초/List.of() (미완).md",
+    "Dictionary/Java/기초/stream().md",
+    "Dictionary/Java/기초/stream - flatmap (미완).md",
     "2022-09-28.md",
-    "Dictionary/Java/기초/List.of().md",
     "Dictionary/Java/무제노트.md",
     "Dictionary/Java/기초/stream - map (미완).md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md",
-    "Dictionary/Java/기초/stream().md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
     "Template/📗사전📗.md",
     "Template/🗓️프로젝트 계획🗓️.md"
