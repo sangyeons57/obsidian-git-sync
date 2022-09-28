@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/프로젝트 아이디어_게임.md",
+            "file": "Template/아이디어.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/프로젝트 아이디어_게임.md",
+                "file": "Template/아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/프로젝트 아이디어_게임.md",
+                "file": "Template/아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/프로젝트 아이디어_게임.md"
+                "file": "Template/아이디어.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "e5be783498044f9e",
   "lastOpenFiles": [
+    "Template/asset.md",
+    "Template/아이디어.md",
+    "Template/일반.md",
     "Template/프로젝트 계획.md",
     "Template/주간노트 제목.md",
     "프로젝트/1.프로젝트 정리.md",
     "프로젝트/0.아이디어.md",
     "Dictionary/Vim/단축키.md",
     "Programing/무제노트.md",
-    "Template/프로젝트 아이디어_게임.md",
-    "Template/주간노트 내용.md",
-    "Template/일반.md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
+    "Template/주간노트 내용.md"
   ]
 }
