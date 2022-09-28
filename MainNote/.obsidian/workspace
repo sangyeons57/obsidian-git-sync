@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/주간노트 내용.md",
+            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Template/주간노트 내용.md",
+            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/주간노트 내용.md",
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/주간노트 내용.md",
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/주간노트 내용.md"
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
               }
             }
           }
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a28890acb286492c",
+  "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Template/주간노트 내용.md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "Template/주간노트 제목.md",
     "자료/무제노트.md",
     "2022-09-28.md",
     "Dictionary/Java/기초/Arrays.asList() (미완).md",
     "Dictionary/Java/기초/List.of() (미완).md",
     "Dictionary/Java/기초/stream().md",
     "Dictionary/Java/기초/stream - flatmap (미완).md",
-    "Dictionary/Java/무제노트.md",
-    "Dictionary/Java/기초/stream - map (미완).md",
-    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md"
+    "Dictionary/Java/무제노트.md"
   ]
 }
