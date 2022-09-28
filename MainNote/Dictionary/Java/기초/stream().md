@@ -48,7 +48,6 @@ List<String> list = List.of("mad", "play", "...");
 Stream<String> stream = list.parallelStream();
 ```
 
-
 효율적이게 바꾼 기본타입 스트림 int, long, doulbe stream 등이있다.
 ```java
 // 0, 1, 2
@@ -75,8 +74,4 @@ DoubleStream doubleStream = DoubleStream.of(0, 3);
 ### 업데이트
 -  2022/09/28( 수요일 ) - 14:09 : 첫 작성
 -  2022/09/28 (수요일) -  19:01 : 외부링크 추가밑 내용 추가  
-- 
-
-
- 
-
+-  2022/09/28 (수요일) - 20:27  : stream 이 for  같이 하나씩 반복 하는게 아니라 스트림 으로 다 묶어서 한번에  다음 함수로 전달하는 방식이라는걸 앎    
