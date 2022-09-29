@@ -10,8 +10,9 @@
 ```
 list.stream().collect(Collectors.toMap(
 	key -> key,
-	key -> unitlist.stream().fil
-))
+	key -> otherlist.stream().filter(value -> value.contains(key)).toList(),
+	(prev, next) -> next,
+	HashMap::new));
 
 ```
 	
