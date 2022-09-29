@@ -26,12 +26,12 @@
           "state": {
             "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": false,
+              "localInterlinks": true,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
@@ -167,7 +167,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "935e8ca515ca64e3",
+  "active": "0afe9abdcfcdccc9",
   "lastOpenFiles": [
     "Dictionary/Java/기초/Collectors.toMap().md",
     "Dictionary/Java/기초/Collectors.toList().md",
