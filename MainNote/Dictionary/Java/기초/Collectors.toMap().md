@@ -5,8 +5,7 @@
 ---
 ## 관련문서
 - [[stream()]]
-
-----
+ ----
 ### 요약(사용설명)
 ```
 list.stream().collect(Collectors.toMap(
@@ -15,7 +14,7 @@ list.stream().collect(Collectors.toMap(
 ))
 
 ```
-
+	
 ---
 ### 내용
 

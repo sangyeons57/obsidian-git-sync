@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors.toMap().md",
+            "file": "Dictionary/Vim/응용/무제노트.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors.toMap().md",
+            "file": "Dictionary/Vim/응용/무제노트.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors.toMap().md",
+                "file": "Dictionary/Vim/응용/무제노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors.toMap().md",
+                "file": "Dictionary/Vim/응용/무제노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors.toMap().md"
+                "file": "Dictionary/Vim/응용/무제노트.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Collectors.toMap().md",
     "Dictionary/Java/기초/Arrays.asList() (미완).md",
     "Dictionary/Java/기초/List.of() (미완).md",
     "Dictionary/Java/기초/Stream.of() (미완).md",
@@ -177,7 +178,6 @@
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "자료/무제노트.md",
     "Dictionary/Java/기초/stream - map (미완).md",
-    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
-    "Dictionary/Vim/기초/단축키/창이동.md"
+    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md"
   ]
 }
