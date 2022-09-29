@@ -21,7 +21,7 @@ list.stream().collect(Collectors.toMap(
 
 ----
 ### 외부문서
-#[collectors - toMap](https://kapentaz.github.io/java/Collectors.toMap%EC%9D%80-NPE-%EC%A3%BC%EC%9D%98%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4/#)
+- [collectors - toMap](https://kapentaz.github.io/java/Collectors.toMap%EC%9D%80-NPE-%EC%A3%BC%EC%9D%98%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4/#)
 
 ----
 ### 업데이트
