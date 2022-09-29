@@ -9,7 +9,10 @@
 ----
 ### 요약(사용설명)
 ```
-coll
+list.stream().collect(Collectors.toMap(
+	key -> key,
+	key -> unitlist.stream().fil
+))
 
 ```
 
