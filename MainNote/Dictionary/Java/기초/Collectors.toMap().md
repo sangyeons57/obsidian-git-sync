@@ -15,6 +15,11 @@ list.stream().collect(Collectors.toMap(
 	HashMap::new));
 
 ```
+
+첫번째인수 key
+두번째인수 value
+세번째인수 들어올때 값이 겹칠경우 어떻게 할것인지
+네번째인수어떤 map인지
 	
 ---
 ### 내용
