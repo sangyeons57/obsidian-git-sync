@@ -6,11 +6,11 @@
       {
         "id": "935e8ca515ca64e3",
         "type": "leaf",
-        "dimension": 69.07582938388626,
+        "dimension": 59.910913140311806,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "Dictionary/Java/기초/Collectors.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "0afe9abdcfcdccc9",
         "type": "leaf",
-        "dimension": 30.92417061611375,
+        "dimension": 40.089086859688194,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "Dictionary/Java/기초/Collectors.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "Dictionary/Java/기초/Collectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "Dictionary/Java/기초/Collectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
+                "file": "Dictionary/Java/기초/Collectors.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
-    "자료/무제노트.md",
-    "Dictionary/Java/기초/stream().md",
-    "Dictionary/Java/기초/stream - map (미완).md",
-    "Dictionary/Java/기초/Stream.of() (미완).md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
-    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md",
+    "Dictionary/Java/기초/Arrays.asList() (미완).md",
     "Dictionary/Java/기초/List.of() (미완).md",
-    "Dictionary/Vim/기초/단축키/창이동.md",
-    "Template/주간노트 내용.md"
+    "Dictionary/Java/기초/Stream.of() (미완).md",
+    "Dictionary/Java/기초/stream().md",
+    "Dictionary/Java/기초/stream - flatmap (미완).md",
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "자료/무제노트.md",
+    "Dictionary/Java/기초/stream - map (미완).md",
+    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
+    "Dictionary/Vim/기초/단축키/창이동.md"
   ]
 }
