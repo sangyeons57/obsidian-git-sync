@@ -8,7 +8,10 @@
 ----
 ### 요약(사용설명)
 ``` Java
-public static string Join
+public static string Join(cahr separator, params object?[] values);
+
+
+String.join(" ", araay);
 ```
 ---
 ### 내용
