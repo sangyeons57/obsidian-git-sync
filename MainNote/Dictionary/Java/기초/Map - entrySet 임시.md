@@ -10,6 +10,8 @@
 
 ---
 ### 내용
+
+Map.entrySet 메소드는 이 클래스의 요소가 포함된 Map으
 ```Java
 int width = 1 +values.get().entrySet().stream()
 			.max((x, y) -> x.getValue().length() - y.getValue().length())
