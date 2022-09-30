@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 59.910913140311806,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "프로젝트/0. 아이디어/무제노트.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "dcb3eadfa8b86717"
       },
@@ -20,6 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "프로젝트/0. 아이디어/무제노트.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -111,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로젝트/0. 아이디어/무제노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로젝트/0. 아이디어/무제노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프로젝트/0. 아이디어/무제노트.md"
+              }
             }
           }
         ]
@@ -158,8 +167,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a28890acb286492c",
+  "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "프로젝트/0. 아이디어/휴먼 폴 플렛을 이용한 게임.md",
     "프로젝트/1.프로젝트 정리.md",
     "프로젝트/0. 아이디어.md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
@@ -168,7 +178,6 @@
     "Dictionary/Vim/응용/Vimium.md",
     "Dictionary/Java/기초/Arrays.asList() (미완).md",
     "Dictionary/Java/기초/List.of() (미완).md",
-    "Dictionary/Java/기초/Stream.of() (미완).md",
-    "Dictionary/Java/기초/stream().md"
+    "Dictionary/Java/기초/Stream.of() (미완).md"
   ]
 }
