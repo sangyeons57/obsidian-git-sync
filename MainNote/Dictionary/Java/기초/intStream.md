@@ -11,9 +11,14 @@
 ---
 ### 내용
 ```Java
-IntStream.range(1,10).foreach(System.out::println);
+IntStream.range(1,11).foreach(System.out::println);
 ```
 보통이렇게 쓰인다
+```
+IntStream.rangeClosed(1,10)
+
+```
+이렇게 쓸수도있다 가동성을 위해
 
 ----
 ### 외부문서
