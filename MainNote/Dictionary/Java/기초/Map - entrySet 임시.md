@@ -11,7 +11,8 @@
 ---
 ### 내용
 
-Map.entrySet 메소드는 이 클래스의 요소가 포함된 Map으
+map을 반복 가능하게 해준다
+아직 잘모르겠다 써본다음에 나머지를 적자
 ```Java
 int width = 1 +values.get().entrySet().stream()
 			.max((x, y) -> x.getValue().length() - y.getValue().length())
