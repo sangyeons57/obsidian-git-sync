@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 59.910913140311806,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "dcb3eadfa8b86717"
       },
@@ -24,7 +20,6 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -116,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0afe9abdcfcdccc9",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
+    "프로젝트/1.프로젝트 정리.md",
+    "프로젝트/0. 아이디어.md",
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Collectors.toMap().md",
     "Dictionary/Java/기초/Collectors.toList().md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Vim/응용/Vimium.md",
     "Dictionary/Java/기초/Arrays.asList() (미완).md",
     "Dictionary/Java/기초/List.of() (미완).md",
     "Dictionary/Java/기초/Stream.of() (미완).md",
-    "Dictionary/Java/기초/stream().md",
-    "Dictionary/Java/기초/stream - flatmap (미완).md",
-    "자료/무제노트.md"
+    "Dictionary/Java/기초/stream().md"
   ]
 }
