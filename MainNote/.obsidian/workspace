@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "Dictionary/Java/기초/intStream.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "Dictionary/Java/기초/intStream.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "Dictionary/Java/기초/intStream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "Dictionary/Java/기초/intStream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
+                "file": "Dictionary/Java/기초/intStream.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/String - join.md",
     "Dictionary/Java/기초/String - split.md",
     "Dictionary/Java/기초/stream - map (미완).md",
@@ -177,7 +178,6 @@
     "Dictionary/Java/기초/Arrays - asList() (미완).md",
     "Dictionary/Java/기초/List - of() (미완).md",
     "Dictionary/Java/기초/Collectors - toList().md",
-    "Dictionary/Java/기초/Collectors - toMap().md",
-    "Dictionary/Java/기초/Optinal 미완.md"
+    "Dictionary/Java/기초/Collectors - toMap().md"
   ]
 }
