@@ -1,6 +1,6 @@
 # 제목 : Optional.orElseThrow()
 
-## 분류 :  #optinal 
+## 분류 :  #optinal #orElseThrow 
 
 ---
 ## 관련문서
@@ -10,7 +10,9 @@
 
 ---
 ### 내용
-
+```Java
+return opt.orElseThrow(() -> new Exception("ohlcv result set null"));
+```
 ----
 ### 외부문서
 - [orElseThorw](https://krksap.tistory.com/1515)
