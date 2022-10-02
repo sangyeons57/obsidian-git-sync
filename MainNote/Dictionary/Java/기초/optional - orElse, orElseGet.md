@@ -12,6 +12,20 @@
 ---
 ### 내용
 
+orElse는 null 이던말건 항상불리고
+orElseGet은 null 일때만 불린다.
+
+```Java
+String username = null;
+String result1 = Optional.ofNullable(username)
+	.orElse(getDefaultName());
+System.out.println(result1); 
+
+String result2 = Optional.ofNullable(username)
+	.orElseGet(() -> getDefaultName()); 
+System.out.println(result2); }
+```
+
 ----
 ### 외부문서
 - [orElse 와 orElseGet의 차이](https://cfdf.tistory.com/34)
