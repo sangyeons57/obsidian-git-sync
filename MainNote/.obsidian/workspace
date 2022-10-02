@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/무제노트.md",
+            "file": "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/무제노트.md",
+            "file": "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md",
+                "file": "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md",
+                "file": "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md"
+                "file": "Dictionary/Java/기초/Optional - orElse, orElseGet.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
     "Dictionary/컴퓨터/소프트웨어/CRUD.md",
     "Dictionary/컴퓨터/소프트웨어/엔티티.md",
@@ -177,7 +178,6 @@
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Template/🗓️프로젝트 계획🗓️.md",
     "Template/주간노트 내용.md",
-    "자료/무제노트.md",
-    "Dictionary/Java/기초/intStream.md"
+    "자료/무제노트.md"
   ]
 }
