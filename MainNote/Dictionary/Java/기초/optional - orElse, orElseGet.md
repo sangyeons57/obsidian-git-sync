@@ -26,12 +26,17 @@ String result2 = Optional.ofNullable(username)
 System.out.println(result2); }
 ```
 
-orElse는 값만 취하고
-orElseGet은 "Supplier"를 취한다.
+orElse는 값만 취하고 
+orElseGet은 "Supplier"를 취한다. 
+
+orElse는 null이여도 함수를 실행 시키고
+orElseGet은 null 이면 함수를 실행 시키지 않는다
+
 
 ----
 ### 외부문서
 - [orElse 와 orElseGet의 차이](https://cfdf.tistory.com/34)
+- [orElse와 orElseGet의 차이](https://erjuer.tistory.com/102)
 
 ----
 ### 업데이트
