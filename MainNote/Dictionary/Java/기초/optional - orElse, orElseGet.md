@@ -26,6 +26,9 @@ String result2 = Optional.ofNullable(username)
 System.out.println(result2); }
 ```
 
+orElse는 값만 취하고
+orElseGet은 "Supplier"
+
 ----
 ### 외부문서
 - [orElse 와 orElseGet의 차이](https://cfdf.tistory.com/34)
