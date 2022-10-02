@@ -27,7 +27,7 @@ System.out.println(result2); }
 ```
 
 orElse는 값만 취하고
-orElseGet은 "Supplier"
+orElseGet은 "Supplier"를 취한다.
 
 ----
 ### 외부문서
