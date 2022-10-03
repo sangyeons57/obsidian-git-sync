@@ -26,7 +26,7 @@
           "state": {
             "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -169,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/stream - map (미완).md",
+    "Dictionary/컴퓨터/소프트웨어/CRUD.md",
+    "Dictionary/컴퓨터/소프트웨어/엔티티.md",
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Optional - of.md",
     "Dictionary/Java/Optional - empty.md",
     "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
-    "Dictionary/Java/기초/Optional - orElseThrow.md",
-    "Dictionary/컴퓨터/소프트웨어/CRUD.md",
-    "Dictionary/컴퓨터/소프트웨어/엔티티.md",
-    "Template/📗사전📗.md",
-    "Dictionary/Java/기초/Optinal 미완.md"
+    "Dictionary/Java/기초/Optional - orElseThrow.md"
   ]
 }
