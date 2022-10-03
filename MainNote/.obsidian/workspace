@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "주간노트/2022/2022.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+            "file": "주간노트/2022/2022.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#주간노트_2022_39주차",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "주간노트/2022/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "file": "주간노트/2022/2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
+                "file": "주간노트/2022/2022.md"
               }
             }
           }
@@ -169,10 +169,10 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/stream - map (미완).md",
     "Dictionary/컴퓨터/소프트웨어/CRUD.md",
     "Dictionary/컴퓨터/소프트웨어/엔티티.md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Optional - of.md",
