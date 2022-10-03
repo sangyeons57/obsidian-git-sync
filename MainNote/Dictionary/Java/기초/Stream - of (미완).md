@@ -12,7 +12,10 @@
 
 ---
 ### 내용
-
+Stream.of() 로 생성하려는 개체를 입력하면, 스틺 객체로 생성이 된다.
+```java
+Stream<String> stream1 = Stream.of("code", "chacha", "blog", "example");
+```
 ----
 ### 외부문서
 
