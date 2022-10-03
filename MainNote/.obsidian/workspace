@@ -6,7 +6,7 @@
       {
         "id": "935e8ca515ca64e3",
         "type": "leaf",
-        "dimension": 59.910913140311806,
+        "dimension": 63.62559241706162,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,7 +20,7 @@
       {
         "id": "0afe9abdcfcdccc9",
         "type": "leaf",
-        "dimension": 40.089086859688194,
+        "dimension": 36.37440758293839,
         "state": {
           "type": "localgraph",
           "state": {
@@ -169,6 +169,8 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Pasted image 20221003151103.png",
+    "Dictionary/Java/기초/제너릭.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/stream - map (미완).md",
@@ -176,8 +178,6 @@
     "Dictionary/컴퓨터/소프트웨어/엔티티.md",
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
-    "Dictionary/Java/기초/Optional - of.md",
-    "Dictionary/Java/Optional - empty.md",
-    "Dictionary/Java/기초/Optional - orElse, orElseGet.md"
+    "Dictionary/Java/기초/Optional - of.md"
   ]
 }
