@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/무제노트.md",
+            "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/무제노트.md",
+            "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md",
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md",
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/무제노트.md"
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md"
               }
             }
           }
@@ -169,6 +169,8 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "무제노트.md",
+    "Dictionary/Java/기초/무제노트.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/Java/기초/List - of() (미완).md",
     "Dictionary/Java/기초/Arrays - asList() (미완).md",
@@ -176,8 +178,6 @@
     "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Stream - min, max.md",
     "Dictionary/Java/기초/Optional 미완.md",
-    "Dictionary/Java/기초/Optional - orElseThrow.md",
-    "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
-    "Dictionary/Java/기초/Optional - ofNullable.md"
+    "Dictionary/Java/기초/Optional - orElseThrow.md"
   ]
 }
