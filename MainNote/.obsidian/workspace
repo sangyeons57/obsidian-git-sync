@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors - toList().md",
+            "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
             "mode": "source",
             "source": false
           }
@@ -24,9 +24,9 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors - toList().md",
+            "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -35,7 +35,7 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": true,
+              "collapse-color-groups": false,
               "colorGroups": [],
               "collapse-display": false,
               "showArrow": false,
@@ -43,11 +43,11 @@
               "nodeSizeMultiplier": 1.92442415730337,
               "lineSizeMultiplier": 3.99453651685393,
               "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
+              "centerStrength": 0.539102564102564,
+              "repelStrength": 9.96153846153846,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.42967809143425184,
+              "scale": 1.0000000000000004,
               "close": false
             }
           }
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md",
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md",
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md"
+                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md"
               }
             }
           }
@@ -170,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/List - of() (미완).md",
     "Dictionary/Java/기초/Arrays - asList() (미완).md",
-    "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Collectors - toList().md",
+    "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Stream - min, max.md",
     "Dictionary/Java/기초/Optional 미완.md",
     "Dictionary/Java/기초/Optional - orElseThrow.md",
     "Dictionary/Java/기초/Optional - orElse, orElseGet.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
-    "Dictionary/Java/기초/Optional - of.md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md"
+    "Dictionary/Java/기초/Optional - of.md"
   ]
 }
