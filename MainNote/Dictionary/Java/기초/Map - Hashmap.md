@@ -1,10 +1,11 @@
 # 제목 : Hashmap
 
-## 분류 : #hashmap #map
+## 분류 : #stream #hashmap #map
 
 ---
 ## 관련문서
-
+- [[Stream - map (미완)]]
+- [[Stream()]]
 ----
 ### 요약(사용설명)
 
