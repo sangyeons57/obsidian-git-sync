@@ -1,6 +1,6 @@
 # 제목 : map.entrySet()
 
-## 분류 : #map #entrySet
+## 분류 : #map #entrySet #stream 
 
 ---
 ## 관련문서

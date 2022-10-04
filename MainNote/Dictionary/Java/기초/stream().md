@@ -4,7 +4,7 @@
 
 ---
 ## 관련문서
-- [[stream - map (미완)]]
+- [[Stream - map (미완)]]
 - [[stream - flatmap (미완)]]
 
 ----

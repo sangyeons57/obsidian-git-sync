@@ -4,8 +4,8 @@
 
 ---
 ## 관련문서
-- [[stream()]]
-- [[stream - map (미완)]]
+- [[Stream()]]
+- [[Stream - map (미완)]]
 - [[stream - flatmap (미완)]]
 
 
