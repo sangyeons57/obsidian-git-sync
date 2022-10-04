@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Stream().md",
+            "file": "Dictionary/Java/기초/Optional - of.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Stream().md",
+            "file": "Dictionary/Java/기초/Optional - of.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Stream().md",
+                "file": "Dictionary/Java/기초/Optional - of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Stream().md",
+                "file": "Dictionary/Java/기초/Optional - of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Stream().md"
+                "file": "Dictionary/Java/기초/Optional - of.md"
               }
             }
           }
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0afe9abdcfcdccc9",
+  "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Optional 미완.md",
+    "Dictionary/Java/기초/Stream - min, max.md",
+    "Dictionary/Java/기초/Stream().md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
     "Dictionary/Java/기초/stream - flatmap (미완).md",
-    "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Stream - 매칭 메스드.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/Java/Optional - 값유무 체크.md",
-    "Dictionary/Java/기초/Map - Hashmap.md",
-    "Dictionary/Java/기초/Stream - min, max.md",
-    "Dictionary/Java/기초/Optinal 미완.md"
+    "Dictionary/Java/기초/Map - Hashmap.md"
   ]
 }

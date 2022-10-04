@@ -4,7 +4,7 @@
 
 ---
 ## 관련문서
-- [[Optinal 미완]]
+- [[Optional 미완]]
 - [[Supplier]]
 - 
 ----
