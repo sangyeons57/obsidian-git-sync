@@ -5,6 +5,7 @@
 ---
 ## 관련문서
 - [[Stream()]]
+- [[Optional 미완]]
 
 ----
 ### 요약(사용설명)
@@ -23,7 +24,7 @@ String s = squares.stream().filter(s1 -> values.get(s1).length() > 1)
 비교하는걸 넣고 optional 을 반환한다
 아마도 들어온 스트림이 빈경우를 대비하기 위함이 아닐까
 
-어쨌든 그래서 get()을 해줘야한다 [[opt - of]]
+어쨌든 그래서 get()을 해줘야한다 [[Optional 미완]]
 
 ----
 ### 외부문서
