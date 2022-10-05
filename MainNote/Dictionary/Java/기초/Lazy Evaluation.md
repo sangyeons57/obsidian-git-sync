@@ -19,6 +19,16 @@ a && b ? true : false;
 ```
 에서  && a 의 연산결과에 따라서 b의 실행여부가 결정되기때문에 Lazy Evaluation 이고 할수있다.
 
+Eager Evaluation
+```Java
+public void sol()
+{
+	boolean a = test(1);
+	boolean b = test(2);
+}
+
+static String 
+```
 
 ----
 ### 외부문서
