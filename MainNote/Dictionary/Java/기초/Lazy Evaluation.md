@@ -25,9 +25,32 @@ public void sol()
 {
 	boolean a = test(1);
 	boolean b = test(2);
+	judgment(a,b);
 }
 
-static String 
+static String judgment(boolean a, boolean b)
+{
+	return a && b ? "test1" : "test2"
+}
+```
+
+Lazy Evaluation
+```Java
+public void sol()
+{
+ String value = test(1) && test(2) ? "test1" : "test2"
+}
+```
+
+Lazy Evaluation
+```Java
+	Supplier<Boolean> a = () -> test(1);
+	Supplier<Boolean> b = () -> test(2);
+
+static String judgment(Supplier<Boolean> a, Supplier<Boolean> b)
+{
+	return a.get() && b.get() ? "test1" : "test2"
+}
 ```
 
 ----
