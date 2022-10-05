@@ -42,7 +42,7 @@ public void sol()
 }
 ```
 
-Lazy Evaluation
+Lazy Evaluation -> java 8 이후  [[Supplier]]
 ```Java
 	Supplier<Boolean> a = () -> test(1);
 	Supplier<Boolean> b = () -> test(2);
@@ -52,6 +52,8 @@ static String judgment(Supplier<Boolean> a, Supplier<Boolean> b)
 	return a.get() && b.get() ? "test1" : "test2"
 }
 ```
+
+필요하지 않은 연산은 하지않는다는 장점이있다.
 
 ----
 ### 외부문서
