@@ -9,7 +9,11 @@
 
 ----
 ### 요약(사용설명)
-
+```Java
+import java.util.*;
+import java.util.stream.*;
+```
+stream 쓸때는 그냥 이건쓰고가자
 
 ----
 ### 내용
