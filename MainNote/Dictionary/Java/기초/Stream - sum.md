@@ -8,6 +8,11 @@
 
 ----
 ### 요약(사용설명)
+```Java
+int s = IntStream.rangeClosed(1, n)
+	.filter( i -> i % 2 == 0)
+	.sum();
+```
 
 ---
 ### 내용
