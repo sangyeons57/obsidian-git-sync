@@ -19,6 +19,8 @@ public static void main(String[] args) {
 ```
 "o" 가 포함된 stream의 개수를 찾습니다.
 
+return 이 long 으로 된다
+int 로 쓰고 싶으면 (int) 로 타입변환을 해야한다.
 
 
 ----
