@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - sum.md",
+            "file": "Dictionary/Java/기초/Collectors - toList().md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - sum.md",
+            "file": "Dictionary/Java/기초/Collectors - toList().md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - sum.md",
+                "file": "Dictionary/Java/기초/Collectors - toList().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - sum.md",
+                "file": "Dictionary/Java/기초/Collectors - toList().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - sum.md"
+                "file": "Dictionary/Java/기초/Collectors - toList().md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Collectors - toMap().md",
     "Dictionary/Java/기초/Collectors - toList().md",
+    "Dictionary/Java/기초/Stream - sum.md",
     "Dictionary/Java/기초/Arrays - asList() (미완).md",
     "Dictionary/Java/기초/Collection - nCopies.md",
-    "Dictionary/Java/기초/Collectors - toMap().md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/Java/기초/Lazy Evaluation.md",
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/기초/백트래킹(Backtracking).md",
-    "Dictionary/Java/기초/Iterator.md",
-    "무제노트.md"
+    "Dictionary/Java/기초/Iterator.md"
   ]
 }
