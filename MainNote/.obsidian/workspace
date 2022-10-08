@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors - toList().md",
+            "file": "Dictionary/Java/기초/Stream - count.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Collectors - toList().md",
+            "file": "Dictionary/Java/기초/Stream - count.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md",
+                "file": "Dictionary/Java/기초/Stream - count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md",
+                "file": "Dictionary/Java/기초/Stream - count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Collectors - toList().md"
+                "file": "Dictionary/Java/기초/Stream - count.md"
               }
             }
           }
@@ -170,6 +169,7 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Collectors - toList().md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Stream - arrayStream.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
@@ -178,7 +178,6 @@
     "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Stream - map - entrySet 임시.md",
     "Dictionary/Java/기초/Stream - sum.md",
-    "Dictionary/Java/기초/Collectors - toMap().md",
-    "Dictionary/Java/기초/Collectors - toList().md"
+    "Dictionary/Java/기초/Collectors - toMap().md"
   ]
 }
