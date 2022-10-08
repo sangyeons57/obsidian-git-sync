@@ -4,7 +4,7 @@
 
 ---
 ## 관련문서
-
+- [[Stream()]]
 ----
 ### 요약(사용설명)
 
@@ -13,6 +13,7 @@
 ```Java
 int count = (int) words.stream().filter(w->w.contains("o")).count();
 ```
+typed이 int 가 아니여서(int) 업스케일링? 인가를 해줘야한다.
 
 ----
 ### 외부문서

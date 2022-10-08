@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - count.md",
+            "file": "Dictionary/Java/기초/Stream - reduce.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - count.md",
+            "file": "Dictionary/Java/기초/Stream - reduce.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collector",
+                "query": "stream",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md",
+                "file": "Dictionary/Java/기초/Stream - reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md",
+                "file": "Dictionary/Java/기초/Stream - reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md"
+                "file": "Dictionary/Java/기초/Stream - reduce.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
-    "Dictionary/Java/기초/Collectors - toList().md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
-    "Stream - arrayStream.md",
-    "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
-    "Dictionary/Java/기초/Stream - min, max.md",
+    "Dictionary/Java/기초/Stream - count.md",
     "Dictionary/Java/Stream - count.md",
-    "Dictionary/Java/기초/Stream().md",
-    "Dictionary/Java/기초/Stream - map - entrySet 임시.md",
+    "Dictionary/Java/기초/Optional - empty.md",
+    "Dictionary/Java/기초/Optional - 값유무 체크.md",
+    "Dictionary/Java/기초/Stream - reduce.md",
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Stream - sum.md",
-    "Dictionary/Java/기초/Collectors - toMap().md"
+    "Dictionary/Java/기초/Stream().md",
+    "Dictionary/Java/기초/Collectors - toList().md",
+    "Stream - arrayStream.md"
   ]
 }
