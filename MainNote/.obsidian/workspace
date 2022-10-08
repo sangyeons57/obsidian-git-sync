@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - reduce.md",
+            "file": "Dictionary/Java/기초/Stream - intStream.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/Stream - reduce.md",
+            "file": "Dictionary/Java/기초/Stream - intStream.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stream",
+                "query": "intst",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - reduce.md",
+                "file": "Dictionary/Java/기초/Stream - intStream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - reduce.md",
+                "file": "Dictionary/Java/기초/Stream - intStream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - reduce.md"
+                "file": "Dictionary/Java/기초/Stream - intStream.md"
               }
             }
           }
@@ -169,12 +170,12 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "Dictionary/Java/기초/Stream - reduce.md",
     "Dictionary/Java/기초/Stream - count.md",
     "Dictionary/Java/Stream - count.md",
     "Dictionary/Java/기초/Optional - empty.md",
     "Dictionary/Java/기초/Optional - 값유무 체크.md",
-    "Dictionary/Java/기초/Stream - reduce.md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Stream - sum.md",
     "Dictionary/Java/기초/Stream().md",
     "Dictionary/Java/기초/Collectors - toList().md",
