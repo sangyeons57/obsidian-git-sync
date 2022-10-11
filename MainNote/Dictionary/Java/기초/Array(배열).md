@@ -10,9 +10,14 @@
 
 ---
 ### 내용
+배열
+```Java
+int[] array = new int[num];
+```
 
 ----
 ### 외부문서
+- [사용방법](https://m.blog.naver.com/heartflow89/220950491600)
 
 ----
 ### 업데이트
