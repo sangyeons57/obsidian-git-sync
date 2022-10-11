@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "array",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a28890acb286492c",
+  "active": "13af45f495d913bb",
   "lastOpenFiles": [
+    "Dictionary/Blender/Modifier/Modifier - Generate - Array.md",
     "Dictionary/Java/응용/제곱인지 확인.md",
     "Dictionary/Java/기초/Stream - count.md",
     "Dictionary/Java/기초/Stream - sum.md",
@@ -168,7 +170,6 @@
     "Stream - arrayStream.md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Dictionary/Java/기초/Stream - intStream.md",
-    "Dictionary/Java/Stream - count.md",
-    "Dictionary/Java/기초/Optional - empty.md"
+    "Dictionary/Java/Stream - count.md"
   ]
 }
