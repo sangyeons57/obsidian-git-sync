@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 63.62559241706162,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Dictionary/Java/기초/Array(배열).md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "dcb3eadfa8b86717"
       },
@@ -20,6 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "Dictionary/Java/기초/Array(배열).md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -91,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dictionary/Java/기초/Array(배열).md"
+              }
             }
           }
         ]
@@ -159,7 +167,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13af45f495d913bb",
+  "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
     "Dictionary/Blender/Modifier/Modifier - Generate - Array.md",
     "Dictionary/Java/응용/제곱인지 확인.md",
