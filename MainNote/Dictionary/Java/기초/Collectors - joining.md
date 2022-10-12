@@ -4,6 +4,8 @@
 
 ---
 ## 관련문서
+- [[Stream()]]
+- [[ String- join]]
 
 ----
 ### 요약(사용설명)
@@ -21,7 +23,7 @@ Collectors.joining(" ", "{","}");
 첫번째인수는 element끼리 합칠때 사이에 들어갈 텍스트고
 두번째 세번째 는 각각 앞 뒤에 들어갈 텍스트 이다.
 
-다 s
+다 strig타입으로 들어와야 하는것 같다.
 
 
 map(String::valueOf)
