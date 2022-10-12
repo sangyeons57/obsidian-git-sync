@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary/Java/기초/String - replace().md",
+            "file": "Dictionary/Java/기초/Arrays - asList() (미완).md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Dictionary/Java/기초/String - replace().md",
+            "file": "Dictionary/Java/기초/Arrays - asList() (미완).md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "split",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/String - replace().md",
+                "file": "Dictionary/Java/기초/Arrays - asList() (미완).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/String - replace().md",
+                "file": "Dictionary/Java/기초/Arrays - asList() (미완).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/String - replace().md"
+                "file": "Dictionary/Java/기초/Arrays - asList() (미완).md"
               }
             }
           }
@@ -169,6 +170,8 @@
   },
   "active": "935e8ca515ca64e3",
   "lastOpenFiles": [
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "Dictionary/Java/기초/String - replace().md",
     "Dictionary/Java/기초/Array(배열).md",
     "Dictionary/Java/기초/Collectors - joining.md",
     "Dictionary/Java/기초/Collectors - toMap().md",
@@ -176,8 +179,6 @@
     "Dictionary/Java/기초/String - join.md",
     "Dictionary/Java/기초/Stream - arrayStream.md",
     "String- join.md",
-    "Dictionary/Java/기초/Arrays - asList() (미완).md",
-    "Dictionary/Java/기초/제너릭.md",
-    "Dictionary/Java/기초/Collection - nCopies.md"
+    "Dictionary/Java/기초/Arrays - asList() (미완).md"
   ]
 }
