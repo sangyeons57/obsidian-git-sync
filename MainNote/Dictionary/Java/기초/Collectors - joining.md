@@ -1,6 +1,6 @@
 # 제목 : joining
 
-## 분류 : #stream #collectors #list2string
+## 분류 : #stream #collectors #list2string #join
 
 ---
 ## 관련문서
@@ -11,8 +11,16 @@
 ---
 ### 내용
 ```Java
-list.stream()
+list.stream().map(String::valueOf).collect(Collectros.joining(""));
 ```
+
+python에 join 처럼 나온결과 리스트를 합쳐준다
+```Java
+Collectors.joining(" ", "{","}");
+```
+첫번째인수는 element끼리 합칠때 사이에 들어갈 텍스트고
+두번째 세번째 는 각각 앞 뒤에 들어갈 텍스트 이다.
+
 
 ----
 ### 외부문서
