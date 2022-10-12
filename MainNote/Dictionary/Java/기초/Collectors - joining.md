@@ -21,7 +21,9 @@ Collectors.joining(" ", "{","}");
 첫번째인수는 element끼리 합칠때 사이에 들어갈 텍스트고
 두번째 세번째 는 각각 앞 뒤에 들어갈 텍스트 이다.
 
-ㅏㅏ
+map(String::valueOf)
+이부분은 잘 모르겠다
+
 ----
 ### 외부문서
 - [관련 내용](https://bactoria.tistory.com/74)
