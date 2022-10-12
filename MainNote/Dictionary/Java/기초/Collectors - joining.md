@@ -5,7 +5,7 @@
 ---
 ## 관련문서
 - [[Stream()]]
-- [[ String- join]]
+- [[String - join]]
 
 ----
 ### 요약(사용설명)
