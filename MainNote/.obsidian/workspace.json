@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md",
+                "file": "Dictionary/Java/기초/백트래킹(Backtracking).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59f2b6a8290e6393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Java/응용/Jsoup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e92ea82103856614",
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md",
+                "file": "Dictionary/Java/응용/Jsoup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md",
+                "file": "Dictionary/Java/응용/Jsoup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - count.md"
+                "file": "Dictionary/Java/응용/Jsoup.md"
               }
             }
           }
@@ -197,17 +209,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "77524154ebb3662d",
+  "active": "59f2b6a8290e6393",
   "lastOpenFiles": [
-    "Dictionary/Java/기초/Stream - arrayStream.md",
-    "Dictionary/Java/기초/Stream - 매칭 메스드.md",
-    "2022-10-16.md",
-    "Dictionary/Java/기초/Collectors - toList().md",
-    "Dictionary/Java/기초/Arrays - asList() (미완).md",
-    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
-    "Dictionary/Java/기초/String - replace().md",
-    "Dictionary/Java/기초/Array(배열).md",
+    "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Collectors - joining.md",
-    "Dictionary/Java/기초/Collectors - toMap().md"
+    "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
+    "Dictionary/Java/기초/Supplier.md",
+    "Dictionary/Java/응용/제곱인지 확인.md",
+    "Template/📗사전📗.md",
+    "Dictionary/Java/기초/String - split.md",
+    "Dictionary/Java/응용/Jsoup.md",
+    "Dictionary/Java/기초/Jsoup.md",
+    "Dictionary/Java/기초/백트래킹(Backtracking).md"
   ]
 }
