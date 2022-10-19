@@ -68,6 +68,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11ef31ad932958a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -235,15 +247,15 @@
   },
   "active": "c7af557e034f631c",
   "lastOpenFiles": [
-    "Dictionary/Java/응용/Jsoup-type.md",
+    "Dictionary/HTML+CSS/CSS/Css selectors.md",
     "Dictionary/Java/응용/Jsoup-select.md",
+    "Dictionary/Java/응용/Jsoup-type.md",
     "Dictionary/Java/응용/Jsoup.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Collectors - joining.md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/응용/제곱인지 확인.md",
-    "Template/📗사전📗.md",
-    "Dictionary/Java/기초/String - split.md"
+    "Template/📗사전📗.md"
   ]
 }
