@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7af557e034f631c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Java/응용/Jsoup-select.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "e92ea82103856614",
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-type.md",
+                "file": "Dictionary/Java/응용/Jsoup-select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-type.md",
+                "file": "Dictionary/Java/응용/Jsoup-select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-type.md"
+                "file": "Dictionary/Java/응용/Jsoup-select.md"
               }
             }
           }
@@ -221,8 +233,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1df900414be5c872",
+  "active": "c7af557e034f631c",
   "lastOpenFiles": [
+    "Dictionary/Java/응용/Jsoup-type.md",
+    "Dictionary/Java/응용/Jsoup-select.md",
     "Dictionary/Java/응용/Jsoup.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Collectors - joining.md",
@@ -230,8 +244,6 @@
     "Dictionary/Java/기초/Supplier.md",
     "Dictionary/Java/응용/제곱인지 확인.md",
     "Template/📗사전📗.md",
-    "Dictionary/Java/기초/String - split.md",
-    "Dictionary/Java/기초/Jsoup.md",
-    "Dictionary/Java/기초/백트래킹(Backtracking).md"
+    "Dictionary/Java/기초/String - split.md"
   ]
 }
