@@ -6,124 +6,63 @@
       {
         "id": "1d8a61e6168eecba",
         "type": "tabs",
-        "dimension": 63.62559241706162,
+        "dimension": 60.2112676056338,
         "children": [
-          {
-            "id": "935e8ca515ca64e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/기초/Stream - reduce.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "dcb3eadfa8b86717"
-          },
-          {
-            "id": "77524154ebb3662d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/기초/백트래킹(Backtracking).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59f2b6a8290e6393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/응용/Jsoup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df900414be5c872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/응용/Jsoup-type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "c7af557e034f631c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-select.md",
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "11ef31ad932958a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "2a2d21c379feed63"
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "e92ea82103856614",
+        "id": "21a64004007e4849",
         "type": "tabs",
-        "dimension": 36.37440758293839,
+        "dimension": 39.7887323943662,
         "children": [
           {
-            "id": "0afe9abdcfcdccc9",
+            "id": "b9aff6d2bbad8596",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dictionary/Java/기초/Stream - reduce.md",
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.92442415730337,
-                  "lineSizeMultiplier": 3.99453651685393,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.539102564102564,
-                  "repelStrength": 9.96153846153846,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000004,
+                  "scale": 1,
                   "close": false
                 }
               }
             },
-            "group": "dcb3eadfa8b86717"
+            "group": "2a2d21c379feed63"
           }
         ]
       }
@@ -191,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-select.md",
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-select.md",
+                "file": "Dictionary/Java/기초/Array(배열).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/응용/Jsoup-select.md"
+                "file": "Dictionary/Java/기초/Array(배열).md"
               }
             }
           }
@@ -247,15 +186,15 @@
   },
   "active": "c7af557e034f631c",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/백트래킹(Backtracking).md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
-    "Dictionary/Java/응용/Jsoup-select.md",
-    "Dictionary/Java/응용/Jsoup-type.md",
     "Dictionary/Java/응용/Jsoup.md",
+    "Dictionary/Java/응용/Jsoup-type.md",
+    "Dictionary/Java/응용/Jsoup-select.md",
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Collectors - joining.md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
     "Dictionary/Java/기초/Supplier.md",
-    "Dictionary/Java/응용/제곱인지 확인.md",
-    "Template/📗사전📗.md"
+    "Dictionary/Java/응용/제곱인지 확인.md"
   ]
 }
