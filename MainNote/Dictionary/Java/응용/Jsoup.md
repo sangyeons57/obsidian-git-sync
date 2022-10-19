@@ -10,20 +10,24 @@
 ### 내용
 자바 웹크롤링 라이브러리 이다.
 
+
+메이븐 에서 임포틑 할때는 xml파일에 해당 부분이 필요하다.
+```xml
+<dependencies>
+    <dependency>
+		<!-- jsoup HTML parser library @ https://jsoup.org/ -->  
+		<groupId>org.jsoup</groupId>  
+		<artifactId>jsoup</artifactId>  
+		<version>1.15.3</version>  
+    </dependency>
+</dependencies>
+```
+
+필수로 임포트 하는것
 ```Java
-  
-<dependencies>  
-    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->  
-    <dependency>  
-        <groupId>org.seleniumhq.selenium</groupId>  
-        <artifactId>selenium-java</artifactId>  
-        <version>4.5.0</version>  
-    </dependency>  
-    <dependency>        <!-- jsoup HTML parser library @ https://jsoup.org/ -->  
-        <groupId>org.jsoup</groupId>  
-        <artifactId>jsoup</artifactId>  
-        <version>1.15.3</version>  
-    </dependency></dependencies>
+import org.jsoup.Jsoup;  
+import org.jsoup.nodes.Document;  
+import org.jsoup.select.Elements;
 ```
 
 ----
