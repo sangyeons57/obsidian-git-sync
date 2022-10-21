@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/기초/Array(배열).md",
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dictionary/Java/기초/Array(배열).md",
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/기초/Array(배열).md",
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/기초/Array(배열).md",
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/기초/Array(배열).md"
+                "file": "Dictionary/HTML+CSS/CSS/Css selectors.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "c7af557e034f631c",
   "lastOpenFiles": [
+    "Dictionary/Java/기초/Array(배열).md",
     "Dictionary/Java/기초/백트래킹(Backtracking).md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
     "Dictionary/Java/응용/Jsoup.md",
@@ -194,7 +195,6 @@
     "Dictionary/Java/기초/Optional - ofNullable.md",
     "Dictionary/Java/기초/Collectors - joining.md",
     "Dictionary/Java/응용/diffrence between map and flatmap in java stream.md",
-    "Dictionary/Java/기초/Supplier.md",
-    "Dictionary/Java/응용/제곱인지 확인.md"
+    "Dictionary/Java/기초/Supplier.md"
   ]
 }
