@@ -27,6 +27,22 @@ div > p
 
 
 ```
+
+
+```Java
+attr() => 속석의 값 얻기
+
+example
+
+Elements iframes = doc.select("iframe#mainFrame");
+String src = iframes.attr("src");
+
+select된것의 src의 값 가져오기
+
+
+```
+
+
 ----
 ### 외부문서
 - [w3c](https://www.w3schools.com/cssref/css_selectors.asp)
