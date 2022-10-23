@@ -13,6 +13,7 @@ webdriver API를 통해 브라우저를 제어한다.
 
 자바스크립에 의해 동적으로 생성되는 사이트의 데이터를 크롤링할때 사용한다
 
+## select
 ```Java
 WebDriver driver = new ChromeDriver(); m 
 
@@ -27,10 +28,13 @@ url 접근
 - WebElement attr = dirver.findElement(By.xpath(".//span[@class='fbw']/p"));
 ```
 
+## send
 ```Java
-driver.findElement(By.name("search_query"))
+driver.findElement(By.name("search_query")).sendKeys("검색어");
+해당 element 아마도 검색창 에 입력할수있다.
 
 ```
+
 
 
 
