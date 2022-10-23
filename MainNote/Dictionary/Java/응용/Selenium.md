@@ -2,7 +2,7 @@
 
 ---
 ## 관련문서
-
+- [[Jsoup]]
 ----
 ### 요약(사용설명)
 
@@ -18,10 +18,12 @@ url 접근
 - get('http://url.com')
 
 페이지에 element에 접근하는 메소드
-find_element_by_name('HTML_name')
-find_element_by_id('HTML_id')
-find_element_by_id('HTML_id')
-
+-find_element_by_name('HTML_name')
+-find_element_by_id('HTML_id')
+-find_element_by_xpath('/html/body/some/xpath')
+-find_element_by_css_selector('#css > div.selector')
+-find_element_by_class_name('some_class_name')
+-find_element_by_tag_name('h1')
 ```
 
 ----
