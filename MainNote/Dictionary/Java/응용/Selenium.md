@@ -35,6 +35,11 @@ driver.findElement(By.name("search_query")).sendKeys("검색어");
 
 ```
 
+## click
+```Java
+driver.findElement(By.linkText("검색어")).click();
+driver.findElement(By.partialLinkText("검색어")).click();
+```
 
 
 
