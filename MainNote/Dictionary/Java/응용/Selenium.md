@@ -26,6 +26,10 @@ url 접근
 
 - WebElement attr = dirver.findElement(By.xpath("/html/body/div"));
 - WebElement attr = dirver.findElement(By.xpath(".//span[@class='fbw']/p"));
+
+- WebElement firstName = driver.findElement(By.cssSelector("tag#id.class"));
+- WebElement firstName = driver.findElement(By.cssSelector("tag[name='n']"));
+
 ```
 
 ## send
