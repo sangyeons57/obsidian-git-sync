@@ -17,15 +17,11 @@ webdriver API를 통해 브라우저를 제어한다.
 WebDriver driver = new ChromeDriver(); m 
 
 url 접근
-- get('http://url.com')
+- driver.get('http://url.com')
 
-페이지에 element에 접근하는 메소드
--find_element_by_name('HTML_name')
--find_element_by_id('HTML_id')
--find_element_by_xpath('/html/body/some/xpath')
--find_element_by_css_selector('#css > div.selector')
--find_element_by_class_name('some_class_name')
--find_element_by_tag_name('h1')
+- WebElement attr = dirver.findElement(By.id("email"));
+- WebElement attr = dirver.findElement(By.className("email"));
+- WebElement attr = dirver.findElement(By.linkText("email"));
 ```
 
 ----
