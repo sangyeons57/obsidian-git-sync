@@ -19,15 +19,27 @@ WebDriver driver = new ChromeDriver(); m
 url 접근
 - driver.get('http://url.com')
 
-- WebElement attr = dirver.findElement(By.id("email"));
-- WebElement attr = dirver.findElement(By.className("email"));
-- WebElement attr = dirver.findElement(By.linkText("email"));
+- WebElement attr = dirver.findElement(By.id("id"));
+- WebElement attr = dirver.findElement(By.className("class"));
+- WebElement attr = dirver.findElement(By.linkText("link"));
+
+- WebElement attr = dirver.findElement(By.xpath("/html/body/div"));
+- WebElement attr = dirver.findElement(By.xpath(".//span[@class='fbw']/p"));
 ```
+
+```Java
+driver.findElement(By.name("search_query"))
+
+```
+
+
 
 ----
 ### 외부문서
 
 - [예제1](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
+- [예제2](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hancury&logNo=220355263166)
+- 
 ----
 ### 업데이트
 -  2022/10/23 (일요일) - 21:04 : 첫 작성
