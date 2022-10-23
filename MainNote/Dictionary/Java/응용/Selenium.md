@@ -13,7 +13,9 @@ webdriver API를 통해 브라우저를 제어한다.
 
 자바스크립에 의해 동적으로 생성되는 사이트의 데이터를 크롤링할때 사용한다
 
-```
+```Java
+WebDriver driver = new ChromeDriver();
+
 url 접근
 - get('http://url.com')
 
