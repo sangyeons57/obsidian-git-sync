@@ -46,7 +46,16 @@ By.cssSelector는 위부터 하나하나 다 써줘야 하는 반면에
 </HTML>
 ```
 ```Java
-driver.findElement (by.cssSelector())
+
+driver.findElement (by.cssSelector("body > #1-1"));       불가능
+driver.findElement (by.cssSelector("body > #1 > #1-1"));    가능
+처음 부모"body" 를 설정할때는 원하느 부분 부터 시작할수있지만
+그이후로 자식은 모두 표기해줘야한다.
+
+WebElement m = driver.findElement(By.cssSelector("body"));
+m = m.findElement(By.id("1-1"));                         가능
+이방식은 find element를 계속 해서 사용하기때문에 부모를 다시설정 할수있다.
+
 ```
 
 
@@ -75,3 +84,4 @@ driver.findElement(By.partialLinkText("검색어")).click();
 ----
 ### 업데이트
 -  2022/10/23 (일요일) - 21:04 : 첫 작성
+-  2022/10/24 (월요일) - 19:46 : +추가
