@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05f706cea5c7e2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "21a64004007e4849",
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
+                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
+                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md"
+                "file": "Dictionary/Java/응용/Selenium - getAttribute.md"
               }
             }
           }
@@ -197,11 +209,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5293aa0de59c78e9",
+  "active": "05f706cea5c7e2b2",
   "lastOpenFiles": [
+    "Dictionary/Java/응용/Selenium.md",
     "Dictionary/Java/응용/Jsoup-type.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
-    "Dictionary/Java/응용/Selenium.md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
     "Dictionary/Java/기초/Array(배열).md",
     "Dictionary/Java/기초/백트래킹(Backtracking).md",
