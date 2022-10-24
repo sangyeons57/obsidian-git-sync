@@ -16,6 +16,9 @@ getAttribute 는 html코드를 string으로 가져오기 위해 있다.
 <input id="search_form_input_homepage" class="js-search-input search__input--adv" type="text" autocomplete="off" name="q" tabindex="1" value="" autocapitalize="off" autocorrect="off">
 ```
 ```Java
+
+WebElement searchTextBox= driver.findElement(By.id("search_form_input_homepage"));
+
 String typeValue=searchTextBox.getAttribute("type");
 
 String autocompleteValue=searchTextBox.getAttribute("autocomplete");
@@ -26,7 +29,7 @@ String nonExistingAttributeValue=searchTextBox.getAttribute("nonExistingAttribut
 ```
 
 그외에 getAttribute("innerHTML")
-을 하면 태그 내부의 HTML을 가져올수있다.
+을 하면 태그 내부의 
 
 ----
 ### 외부문서
