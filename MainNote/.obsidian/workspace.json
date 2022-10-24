@@ -212,6 +212,7 @@
   "active": "05f706cea5c7e2b2",
   "lastOpenFiles": [
     "Dictionary/Java/응용/Selenium.md",
+    "Dictionary/Java/응용/Selenium - getAttribute.md",
     "Dictionary/Java/응용/Jsoup-type.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
@@ -219,7 +220,6 @@
     "Dictionary/Java/기초/백트래킹(Backtracking).md",
     "Dictionary/Java/응용/Jsoup.md",
     "Dictionary/Java/응용/Jsoup-select.md",
-    "Dictionary/Java/기초/Optional - ofNullable.md",
-    "Dictionary/Java/기초/Collectors - joining.md"
+    "Dictionary/Java/기초/Optional - ofNullable.md"
   ]
 }
