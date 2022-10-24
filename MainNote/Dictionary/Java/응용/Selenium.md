@@ -32,6 +32,25 @@ url 접근
 
 ```
 
++추가
+By.cssSelector는 위부터 하나하나 다 써줘야 하는 반면에
+다른 것은 중간을 뛰어서 할수있다. 예)
+```HTML
+<HTML>
+	<body>
+		<div id="1">
+			<div id="1-1">
+			</div>
+		</div>
+	</body>
+</HTML>
+```
+```Java
+driver.findElement (by.cssSelector())
+```
+
+
+
 ## send
 ```Java
 driver.findElement(By.name("search_query")).sendKeys("검색어");

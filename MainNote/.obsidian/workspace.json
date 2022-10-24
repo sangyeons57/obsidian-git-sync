@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium - getAttribute.md"
+                "file": "Dictionary/Java/응용/Selenium.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "05f706cea5c7e2b2",
   "lastOpenFiles": [
-    "Dictionary/Java/응용/Selenium.md",
     "Dictionary/Java/응용/Selenium - getAttribute.md",
+    "Dictionary/Java/응용/Selenium.md",
     "Dictionary/Java/응용/Jsoup-type.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
