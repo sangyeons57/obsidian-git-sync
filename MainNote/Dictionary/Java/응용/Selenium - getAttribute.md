@@ -29,7 +29,9 @@ String nonExistingAttributeValue=searchTextBox.getAttribute("nonExistingAttribut
 ```
 
 그외에 getAttribute("innerHTML")
-을 하면 태그 내부의 
+을 하면 태그 내부의 HTML코드를 가지고 온다
+
+getAttribute는 new String()을 해서 주소값이 다른 string을 리턴하므로 == 으로 비교할수 없다 따라서 equals()를 사용해야한다.
 
 ----
 ### 외부문서

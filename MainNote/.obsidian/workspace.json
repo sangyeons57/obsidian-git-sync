@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
+                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38c272343b09398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Java/응용/difference between == and equal().md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "21a64004007e4849",
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
+                "file": "Dictionary/Java/응용/difference between == and equal().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
+                "file": "Dictionary/Java/응용/difference between == and equal().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md"
+                "file": "Dictionary/Java/응용/difference between == and equal().md"
               }
             }
           }
@@ -209,8 +221,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "05f706cea5c7e2b2",
+  "active": "e38c272343b09398",
   "lastOpenFiles": [
+    "Dictionary/Java/응용/difference between map and flatmap in java stream.md",
+    "Dictionary/Java/응용/difference between == and equal().md",
     "Dictionary/Java/응용/Selenium - getAttribute.md",
     "Dictionary/Java/응용/Selenium.md",
     "Dictionary/Java/응용/Jsoup-type.md",
@@ -218,8 +232,6 @@
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
     "Dictionary/Java/기초/Array(배열).md",
     "Dictionary/Java/기초/백트래킹(Backtracking).md",
-    "Dictionary/Java/응용/Jsoup.md",
-    "Dictionary/Java/응용/Jsoup-select.md",
-    "Dictionary/Java/기초/Optional - ofNullable.md"
+    "Dictionary/Java/응용/Jsoup.md"
   ]
 }

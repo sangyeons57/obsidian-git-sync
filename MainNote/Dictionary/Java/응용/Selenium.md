@@ -76,7 +76,7 @@ driver.findElement(By.name("search_query")).sendKeys("검색어");
 driver.findElement(By.linkText("검색어")).click();
 driver.findElement(By.partialLinkText("검색어")).click();
 ```
-
+click은 모드 webElement에서 작동한다.
 
 
 ----
