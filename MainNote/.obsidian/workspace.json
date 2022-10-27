@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd5bc1d02f8423e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Java/기초/File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "21a64004007e4849",
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INewsCrawling.md",
+                "file": "Dictionary/Java/기초/File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INewsCrawling.md",
+                "file": "Dictionary/Java/기초/File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INewsCrawling.md"
+                "file": "Dictionary/Java/기초/File.md"
               }
             }
           }
@@ -231,8 +243,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ede3ce50a38e845d",
+  "active": "bd5bc1d02f8423e5",
   "lastOpenFiles": [
+    "INewsCrawling.md",
     "Pasted image 20221003151103.png",
     "2022-10-16.md",
     "자료/무제노트.md",
@@ -241,7 +254,6 @@
     "Dictionary/Java/응용/Selenium - getAttribute.md",
     "Dictionary/Java/응용/Selenium.md",
     "Dictionary/Java/응용/Jsoup-type.md",
-    "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
-    "Dictionary/HTML+CSS/CSS/Css selectors.md"
+    "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md"
   ]
 }
