@@ -9,6 +9,13 @@
 ---
 ### 내용
 상당히 많이쓰는 vim 플러그인 이다.
+-   **감싸기**(surround)(`ys`)
+-   **삭제**(delete)(`ds`)
+-   **바꾸기**(change)(`cs`)
+
+위의 명령허 후 [목적어](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)를 적어야한다
+
+
 
 ----
 ### 외부문서
