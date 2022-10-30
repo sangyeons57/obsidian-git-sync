@@ -34,113 +34,19 @@
             }
           },
           {
-            "id": "05f706cea5c7e2b2",
+            "id": "8f74940011363e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium - getAttribute.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e38c272343b09398",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221003151103.png"
-              }
-            }
-          },
-          {
-            "id": "ede3ce50a38e845d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INewsCrawling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd5bc1d02f8423e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/기초/File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1989561fa7b0f0dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f41626d92dece1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Vim/기초/surround vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de80d76f7762afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/echo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49efb0ee18f0e70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/$_get.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d67346134ca587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/짧은 php.md",
+                "file": "Dictionary/php/form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       },
       {
         "id": "21a64004007e4849",
@@ -249,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/짧은 php.md",
+                "file": "Dictionary/php/form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/짧은 php.md",
+                "file": "Dictionary/php/form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/짧은 php.md"
+                "file": "Dictionary/php/form.md"
               }
             }
           }
@@ -300,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67d67346134ca587",
+  "active": "8f74940011363e2a",
   "lastOpenFiles": [
-    "Dictionary/php/$_get.md",
+    "Dictionary/Java/응용/Selenium.md",
     "Dictionary/php/echo.md",
+    "Dictionary/php/form.md",
+    "Dictionary/php/짧은 php.md",
+    "Dictionary/php/$_get.md",
     "Dictionary/무제파일.md",
     "Dictionary/Vim/기초/surround vim.md",
     "Dictionary/Java/Directory.md",
     "Dictionary/Java/기초/File.md",
-    "INewsCrawling.md",
-    "Pasted image 20221003151103.png",
-    "2022-10-16.md",
-    "자료/무제노트.md"
+    "INewsCrawling.md"
   ]
 }
