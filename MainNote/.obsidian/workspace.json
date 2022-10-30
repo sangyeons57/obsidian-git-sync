@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49efb0ee18f0e70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/php/$_get.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "21a64004007e4849",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/echo.md",
+                "file": "Dictionary/php/$_get.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/echo.md",
+                "file": "Dictionary/php/$_get.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/echo.md"
+                "file": "Dictionary/php/$_get.md"
               }
             }
           }
@@ -276,8 +288,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2de80d76f7762afd",
+  "active": "49efb0ee18f0e70f",
   "lastOpenFiles": [
+    "Dictionary/php/echo.md",
     "Dictionary/무제파일.md",
     "Dictionary/Vim/기초/surround vim.md",
     "Dictionary/Java/Directory.md",
@@ -286,7 +299,6 @@
     "Pasted image 20221003151103.png",
     "2022-10-16.md",
     "자료/무제노트.md",
-    "Dictionary/Java/응용/difference between == and equals().md",
-    "Dictionary/Java/응용/difference between map and flatmap in java stream.md"
+    "Dictionary/Java/응용/difference between == and equals().md"
   ]
 }
