@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67d67346134ca587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/php/짧은 php.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "21a64004007e4849",
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/$_get.md",
+                "file": "Dictionary/php/짧은 php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/$_get.md",
+                "file": "Dictionary/php/짧은 php.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/$_get.md"
+                "file": "Dictionary/php/짧은 php.md"
               }
             }
           }
@@ -288,8 +300,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49efb0ee18f0e70f",
+  "active": "67d67346134ca587",
   "lastOpenFiles": [
+    "Dictionary/php/$_get.md",
     "Dictionary/php/echo.md",
     "Dictionary/무제파일.md",
     "Dictionary/Vim/기초/surround vim.md",
@@ -298,7 +311,6 @@
     "INewsCrawling.md",
     "Pasted image 20221003151103.png",
     "2022-10-16.md",
-    "자료/무제노트.md",
-    "Dictionary/Java/응용/difference between == and equals().md"
+    "자료/무제노트.md"
   ]
 }
