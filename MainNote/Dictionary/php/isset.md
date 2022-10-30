@@ -9,9 +9,12 @@
 
 ---
 ### 내용
+isset()
+안에 들어간 값이 null인지 확인
 
 ----
 ### 외부문서
+- [설명](https://www.php.net/manual/en/function.isset.php)
 
 ----
 ### 업데이트
