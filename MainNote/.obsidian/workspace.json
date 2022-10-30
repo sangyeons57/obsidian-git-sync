@@ -51,14 +51,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/php/file put content.md",
+                "file": "Dictionary/php/echo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad6398fc511b8504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/php/header.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "21a64004007e4849",
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/file put content.md",
+                "file": "Dictionary/php/header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/file put content.md",
+                "file": "Dictionary/php/header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/file put content.md"
+                "file": "Dictionary/php/header.md"
               }
             }
           }
@@ -218,13 +230,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98b946e82d0d5798",
+  "active": "ad6398fc511b8504",
   "lastOpenFiles": [
+    "Dictionary/php/echo.md",
+    "Dictionary/php/file put content.md",
     "Dictionary/php/form.md",
     "Dictionary/php/$_get.md",
     "Dictionary/php/짧은 php.md",
-    "Dictionary/php/echo.md",
-    "Dictionary/php/file put content.md",
     "Dictionary/Java/응용/Selenium.md",
     "Dictionary/무제파일.md",
     "Dictionary/Vim/기초/surround vim.md",
