@@ -29,10 +29,17 @@ http:// url ?title="타이틀 인풋" & description="디스크립션 인풋"
 그런데 이렇게 주소창에 정보가 다나오면 안되는 때가 있는데
 이때는
 ```php
-<form action="파일이름" method="post">
+<form action="파일이름" method="POST">
 </form>
 ```
-
+이렇게 하면된다
+이 값들을받을때에는
+```php
+$_get["title"]
+이거 대신에
+$_post["title"]
+이렇게 하면 된다.
+```
 
 
 ----
