@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de80d76f7762afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/php/echo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "21a64004007e4849",
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Vim/기초/surround vim.md",
+                "file": "Dictionary/php/echo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Vim/기초/surround vim.md",
+                "file": "Dictionary/php/echo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Vim/기초/surround vim.md"
+                "file": "Dictionary/php/echo.md"
               }
             }
           }
@@ -264,8 +276,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5f41626d92dece1",
+  "active": "2de80d76f7762afd",
   "lastOpenFiles": [
+    "Dictionary/무제파일.md",
+    "Dictionary/Vim/기초/surround vim.md",
     "Dictionary/Java/Directory.md",
     "Dictionary/Java/기초/File.md",
     "INewsCrawling.md",
@@ -273,8 +287,6 @@
     "2022-10-16.md",
     "자료/무제노트.md",
     "Dictionary/Java/응용/difference between == and equals().md",
-    "Dictionary/Java/응용/difference between map and flatmap in java stream.md",
-    "Dictionary/Java/응용/Selenium - getAttribute.md",
-    "Dictionary/Java/응용/Selenium.md"
+    "Dictionary/Java/응용/difference between map and flatmap in java stream.md"
   ]
 }
