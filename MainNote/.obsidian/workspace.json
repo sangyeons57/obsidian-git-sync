@@ -280,6 +280,8 @@
   },
   "active": "2452211e0e80c340",
   "lastOpenFiles": [
+    "Dictionary/HTML+CSS/CSS/Css selectors.md",
+    "Dictionary/php/require & require_once & include.md",
     "Dictionary/php/unlink.md",
     "Dictionary/php/rename.md",
     "Dictionary/php/isset.md",
@@ -287,8 +289,6 @@
     "Dictionary/php/echo.md",
     "Dictionary/php/file put content.md",
     "Dictionary/php/form.md",
-    "Dictionary/php/$_get.md",
-    "Dictionary/php/짧은 php.md",
-    "Dictionary/Java/응용/Selenium.md"
+    "Dictionary/php/$_get.md"
   ]
 }

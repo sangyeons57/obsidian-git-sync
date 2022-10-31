@@ -17,7 +17,37 @@ require는 해당 부분에 코드를 붙여넣는다.
 	<h2>
 </body>
 ```
-*requir
+
+
+**require_once**
+require 가 내가 가져온 다른 파일에서 내가 가젼은 파일이 있어 겹칠경우에 한번만 부를게 한다.
+일반적으로는 이걸 사용하고 중첩해서 사용해야할때 require를 씉다
+
+```php
+--- 1.php
+<?php
+function hello()
+{
+	echo 'hi';
+}
+?>
+
+--- 2.php
+<?php
+require('1.php');
+?>
+
+
+--- 3.php
+<?php
+require('1.php');
+require('2.php');
+
+?>
+
+
+```
+
 
 
 ----
