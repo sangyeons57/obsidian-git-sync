@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/php/require & require_once & include.md",
+                "file": "Dictionary/php/require(_once) & include(_once).md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/require & require_once & include.md",
+                "file": "Dictionary/php/require(_once) & include(_once).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/require & require_once & include.md",
+                "file": "Dictionary/php/require(_once) & include(_once).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/require & require_once & include.md"
+                "file": "Dictionary/php/require(_once) & include(_once).md"
               }
             }
           }
@@ -281,7 +281,7 @@
   "active": "2452211e0e80c340",
   "lastOpenFiles": [
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
-    "Dictionary/php/require & require_once & include.md",
+    "Dictionary/php/require(_once) & include(_once).md",
     "Dictionary/php/unlink.md",
     "Dictionary/php/rename.md",
     "Dictionary/php/isset.md",
