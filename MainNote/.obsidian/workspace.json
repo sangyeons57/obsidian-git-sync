@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/php/require.md",
+                "file": "Dictionary/php/require & require_once & include.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/require.md",
+                "file": "Dictionary/php/require & require_once & include.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/require.md",
+                "file": "Dictionary/php/require & require_once & include.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/require.md"
+                "file": "Dictionary/php/require & require_once & include.md"
               }
             }
           }
