@@ -49,14 +49,19 @@ require('2.php');
 이러면 같은 함수를 두번 정의 하게되 에러 생긴다.
 
 require는 이프로세스중에 문제가 생기면 스크립트 실행을 중지 시킨다
-require는 hl
-l
+반면 include는 그렇지 않다
+사용방법은
+```php
+include '1.php';
+```
+로 require와 상당히 모습과 기능이 비슷하다.
 
 
 
 ----
 ### 외부문서
 - [설명](https://www.w3schools.com/php/php_includes.asp)
+- [차이점](https://www.geeksforgeeks.org/difference-between-require-and-include-in-php/)
 
 ----
 ### 업데이트
