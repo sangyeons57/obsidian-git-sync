@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       },
       {
         "id": "21a64004007e4849",
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/php/explode & str_split.md",
+                "file": "Dictionary/php/json_decode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/php/explode & str_split.md",
+                "file": "Dictionary/php/json_decode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/php/explode & str_split.md"
+                "file": "Dictionary/php/json_decode.md"
               }
             }
           }
@@ -350,8 +350,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bded8fb0e7c71b1b",
+  "active": "ba1037a7f6921f0f",
   "lastOpenFiles": [
+    "Dictionary/php/explode & str_split.md",
     "Dictionary/php/json_decode.md",
     "Dictionary/php/file_put_content.md",
     "Dictionary/php/file_get_contents.md",
@@ -360,7 +361,6 @@
     "Dictionary/Vim/기초/다중 창 관련 명령어.md",
     "Dictionary/php/require(_once) & include(_once).md",
     "Dictionary/HTML+CSS/CSS/Css selectors.md",
-    "Dictionary/php/unlink.md",
-    "Dictionary/php/rename.md"
+    "Dictionary/php/unlink.md"
   ]
 }
