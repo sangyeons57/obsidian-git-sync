@@ -9,6 +9,13 @@
 
 ---
 ### 내용
+json file을 배열로 변환하는데 사용한다.
+```php
+$json = file_get_contents('data.json');
+$json_data = json_decode($json, true);
+
+echo $json_data;
+```
 
 ----
 ### 외부문서
