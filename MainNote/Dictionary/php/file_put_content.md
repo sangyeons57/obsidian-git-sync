@@ -2,7 +2,7 @@
 
 ---
 ## 관련문서
--[[file get contents]]
+-[[file_get_contents]]
 
 ----
 ### 요약(사용설명)
