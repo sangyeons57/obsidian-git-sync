@@ -20,8 +20,29 @@ explod(특정문자열, 배열)
 을 이용해서 특정 문자열 기준으로 나눈다
 
 ```php
-$str = "Hello";
+$str = "Hello MrB";
 $arr1 = str_split($str);
+$arr2 = str_split($str, 3);
+
+/* array1
+[
+[0] => h
+[1] => e
+[2] => l
+[3] => l
+[4] => o
+[5] =>  
+[6] => M
+[7] => r
+[8] => B
+]
+*/
+
+/* array2
+[0] => Hel
+[1] => lo 
+[2] => MrB
+*/
 ```
 
 
