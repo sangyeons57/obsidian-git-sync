@@ -22,187 +22,19 @@
             "group": "2a2d21c379feed63"
           },
           {
-            "id": "5293aa0de59c78e9",
+            "id": "21530e534f415a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Java/응용/Selenium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f74940011363e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98b946e82d0d5798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/echo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad6398fc511b8504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/header.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa03805cc2886f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/isset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d4ab3cd6597f068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/rename.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e285c639a1723134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/unlink.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2452211e0e80c340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/require(_once) & include(_once).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7debc53d9210ba76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Vim/기초/다중 창 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f382d032ce90406d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/보안-XSS(cross site scripting).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15aad26e33b88946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/보안 파일경로 보호.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575be60b6291885b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/file_get_contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba1037a7f6921f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/php/json_decode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dce3694a51ec979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Java/기초/Arrays - copyOfRange.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bded8fb0e7c71b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
+                "file": "Dictionary/Unity/응용/무제파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       },
       {
         "id": "21a64004007e4849",
@@ -311,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
+                "file": "Dictionary/Unity/응용/무제파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
+                "file": "Dictionary/Unity/응용/무제파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md"
+                "file": "Dictionary/Unity/응용/무제파일.md"
               }
             }
           }
@@ -362,8 +194,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bded8fb0e7c71b1b",
+  "active": "21530e534f415a20",
   "lastOpenFiles": [
+    "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/Java/응용/어노테이션.md",
     "overide.md",
     "Dictionary/php/explode & str_split.md",
@@ -372,7 +205,6 @@
     "무제파일.md",
     "Dictionary/php/json_decode.md",
     "Dictionary/php/file_put_content.md",
-    "Dictionary/php/file_get_contents.md",
-    "Dictionary/php/보안 파일경로 보호.md"
+    "Dictionary/php/file_get_contents.md"
   ]
 }
