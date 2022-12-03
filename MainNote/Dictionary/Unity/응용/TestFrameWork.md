@@ -23,8 +23,17 @@ package manager에서 install하고
 Edit모드로 만들고
 platform에 Editor만 체크한다
 
-만든 테스트 폴다 밖에있느
+만든 테스트 폴다 밖에있는 코드를 사용할면 어셈블리를 추가해야한다
+사용할려는 스크립트가 있는 폴더에 
+general - AutoReferenced
+use GUIDs
+Any Platform
+상태로 추가하고
+해당 어셈블리를 테스트 폴더에 어셈블리에
+Assembly Definition Referrences 에 해당 에셈블릴 추가한다
 
+사용방법은 알았지만
+어셈블리에대해 더 공부해야할거 같다
 
 
 ----

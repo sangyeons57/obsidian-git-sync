@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94d7229001483aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Unity/VRChat/Pickup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "21a64004007e4849",
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Unity/응용/TestFrameWork.md",
+                "file": "Dictionary/Unity/VRChat/Pickup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Unity/응용/TestFrameWork.md",
+                "file": "Dictionary/Unity/VRChat/Pickup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Unity/응용/TestFrameWork.md"
+                "file": "Dictionary/Unity/VRChat/Pickup.md"
               }
             }
           }
@@ -194,10 +206,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "21530e534f415a20",
+  "active": "94d7229001483aa2",
   "lastOpenFiles": [
-    "Pasted image 20221203145504.png",
     "Dictionary/Unity/응용/TestFrameWork.md",
+    "Pasted image 20221203145504.png",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
     "Dictionary/Java/응용/어노테이션.md",
     "overide.md",
