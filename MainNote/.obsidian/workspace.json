@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Unity/VRChat/Pickup.md",
+                "file": "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90451a4bb2ed304b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "주간노트/2022/2022년 12월 49주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "21a64004007e4849",
@@ -118,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "override",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Unity/VRChat/Pickup.md",
+                "file": "주간노트/2022/2022년 12월 49주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Unity/VRChat/Pickup.md",
+                "file": "주간노트/2022/2022년 12월 49주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Unity/VRChat/Pickup.md"
+                "file": "주간노트/2022/2022년 12월 49주차.md"
               }
             }
           }
@@ -206,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94d7229001483aa2",
+  "active": "90451a4bb2ed304b",
   "lastOpenFiles": [
-    "Dictionary/Unity/응용/TestFrameWork.md",
-    "Pasted image 20221203145504.png",
+    "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "Template/주간노트 제목.md",
+    "Template/YYYY - MM - DD  (time).md",
+    "Template/주간노트 내용.md",
+    "Template/🗓️프로젝트 계획🗓️.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
-    "Dictionary/Java/응용/어노테이션.md",
-    "overide.md",
-    "Dictionary/php/explode & str_split.md",
-    "Dictionary/Java/기초/Arrays - copyOfRange.md",
-    "Dictionary/Java/기초/Arrays - asList() (미완).md",
-    "무제파일.md",
-    "Dictionary/php/json_decode.md"
+    "프로젝트/0. 아이디어/휴먼 폴 플렛을 이용한 게임.md",
+    "프로젝트/0. 아이디어/논플레이어 게임 공부.md",
+    "Dictionary/Unity/VRChat/Pickup.md",
+    "Dictionary/Unity/응용/TestFrameWork.md"
   ]
 }
