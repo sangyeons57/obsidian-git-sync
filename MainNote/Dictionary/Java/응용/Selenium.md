@@ -9,7 +9,8 @@
 이거 하기전에 selenium 을 maven 파일에 적용해야한다
 [selenium 다운로드](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
 그후 자기자신의 chrome버전의 chromedriver를 다운로드 를 해야한다
-만약 다른 브라우저
+만약 다른 브라우저 를 사용할거면 다른 브라우저의 드라이버가 필요하다
+
 
 ---
 ### 내용
