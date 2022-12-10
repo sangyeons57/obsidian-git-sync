@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주간노트/2022/2022년 12월 49주차.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "주간노트/2022/2022년 12월 49주차.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "주간노트/2022/2022년 12월 49주차.md",
+                "file": "Dictionary/Java/응용/Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "주간노트/2022/2022년 12월 49주차.md"
+                "file": "Dictionary/Java/응용/Selenium.md"
               }
             }
           }
@@ -220,15 +220,15 @@
   },
   "active": "90451a4bb2ed304b",
   "lastOpenFiles": [
+    "Dictionary/Java/응용/Selenium - getAttribute.md",
+    "Dictionary/Java/응용/Selenium.md",
+    "주간노트/2022/2022년 12월 49주차.md",
     "주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
     "Template/주간노트 제목.md",
     "Template/YYYY - MM - DD  (time).md",
     "Template/주간노트 내용.md",
     "Template/🗓️프로젝트 계획🗓️.md",
     "주간노트/2022/2022-10-03 ~ 2022-10-09( 40주차).md",
-    "프로젝트/0. 아이디어/휴먼 폴 플렛을 이용한 게임.md",
-    "프로젝트/0. 아이디어/논플레이어 게임 공부.md",
-    "Dictionary/Unity/VRChat/Pickup.md",
-    "Dictionary/Unity/응용/TestFrameWork.md"
+    "프로젝트/0. 아이디어/휴먼 폴 플렛을 이용한 게임.md"
   ]
 }

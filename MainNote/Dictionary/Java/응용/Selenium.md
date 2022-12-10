@@ -6,6 +6,9 @@
 ----
 ### 요약(사용설명)
 
+이거 하기전에 selenium 을 maven 파일에 적용해야한다
+
+
 ---
 ### 내용
 webdriver API를 통해 브라우저를 제어한다.
@@ -15,7 +18,7 @@ webdriver API를 통해 브라우저를 제어한다.
 
 ## select
 ```Java
-WebDriver driver = new ChromeDriver(); m 
+WebDriver driver = new ChromeDriver();
 
 url 접근
 - driver.get('http://url.com')
