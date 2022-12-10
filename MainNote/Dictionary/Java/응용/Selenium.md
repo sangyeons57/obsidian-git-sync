@@ -11,6 +11,13 @@
 그후 자기자신의 chrome버전의 chromedriver를 다운로드 를 해야한다
 만약 다른 브라우저 를 사용할거면 다른 브라우저의 드라이버가 필요하다
 
+```Java
+Path path = Paths.get(System.getProperty("user.dir"), "폴더위치/드리이버위치.exe")
+System.setProperty("webdriver.chrome.driver", path.toString());
+ChromeDriver driver = new ChromeDriver();
+```
+이걸로 드라이버를 사용해준다고 표시한다
+
 
 ---
 ### 내용
