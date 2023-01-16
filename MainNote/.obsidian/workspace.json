@@ -73,8 +73,12 @@
             "id": "8f7d4c2329e2251f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/GoogleSheetAPI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -187,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "제텔카스텐 노트/GoogleSheetAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "제텔카스텐 노트/GoogleSheetAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "제텔카스텐 노트/GoogleSheetAPI.md"
+              }
             }
           }
         ]
@@ -244,15 +252,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a28890acb286492c",
+  "active": "8f7d4c2329e2251f",
   "lastOpenFiles": [
+    "무제 파일.md",
     "무제파일.md",
     "INewsCrawling.md",
     "Pasted image 20221003151103.png",
     "Pasted image 20221203145504.png",
     "구버전노트/01/Dictionary/Java/기초/Lazy Evaluation.md",
     "구버전노트/01/Dictionary/Java/응용/GoogleSheetApi Project.md",
-    "무제 파일.md",
     "구버전노트/01/Dictionary/Java/응용/difference between == and equals().md",
     "구버전노트/01/Dictionary/Java/응용/difference between map and flatmap in java stream.md",
     "구버전노트/01/Dictionary/Java/응용/Jsoup.md"
