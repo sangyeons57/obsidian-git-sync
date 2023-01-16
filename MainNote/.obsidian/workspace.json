@@ -4,134 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1d8a61e6168eecba",
+        "id": "7c0b455bc302a732",
         "type": "tabs",
-        "dimension": 60.2112676056338,
         "children": [
           {
-            "id": "c7af557e034f631c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구버전노트/01/Dictionary/HTML+CSS/CSS/Css selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "2a2d21c379feed63"
-          },
-          {
-            "id": "21530e534f415a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구버전노트/01/Dictionary/Unity/응용/TestFrameWork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d7229001483aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구버전노트/01/주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90451a4bb2ed304b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구버전노트/01/Dictionary/Java/응용/Selenium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16fbf281d3d46336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구버전노트/01/프로젝트/하고싶은거.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f7d4c2329e2251f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "72f4bbb0c94307f3",
+            "id": "21e2dedb42cd9bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "21a64004007e4849",
-        "type": "tabs",
-        "dimension": 39.7887323943662,
-        "children": [
-          {
-            "id": "b9aff6d2bbad8596",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "구버전노트/01/Dictionary/HTML+CSS/CSS/Css selectors.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.5255568449083805,
-                  "close": false
-                }
-              }
-            },
-            "group": "2a2d21c379feed63"
           }
         ]
       }
@@ -164,8 +50,8 @@
               "state": {
                 "query": "",
                 "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -260,17 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72f4bbb0c94307f3",
+  "active": "21e2dedb42cd9bb9",
   "lastOpenFiles": [
-    "제텔카스텐 노트/GoogleSheetAPI.md",
+    "무제 파일.canvas",
+    "구버전노트/01/프로젝트/하고싶은거.md",
+    "구버전노트/01/Dictionary/Java/응용/Selenium.md",
+    "구버전노트/01/주간노트/2022/2022-09-26 ~ 2022-10-02 ( 39주차 ).md",
+    "구버전노트/01/Dictionary/Unity/응용/TestFrameWork.md",
+    "구버전노트/01/Dictionary/HTML+CSS/CSS/Css selectors.md",
+    "2023-01-16.md",
     "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-    "무제 파일.md",
-    "무제파일.md",
-    "INewsCrawling.md",
-    "Pasted image 20221003151103.png",
-    "Pasted image 20221203145504.png",
-    "구버전노트/01/Dictionary/Java/기초/Lazy Evaluation.md",
-    "구버전노트/01/Dictionary/Java/응용/GoogleSheetApi Project.md",
-    "구버전노트/01/Dictionary/Java/응용/difference between == and equals().md"
+    "제텔카스텐 노트/GoogleSheetAPI.md",
+    "무제 파일.md"
   ]
 }
