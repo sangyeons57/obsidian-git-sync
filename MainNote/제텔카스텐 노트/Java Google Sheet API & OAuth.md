@@ -146,4 +146,7 @@ jdk버전이랑 안 맞는 경우가있다 그때는 자바버전을 해당 버�
 다운로드 받은 Json 파일을 
 위코드에   CREDENTIALS_FILE_PATH 에 나와있는것처럼 바꿔주어야 한다
 
-[Java Goo]
+[GoogleSheet API READ&WRITE](https://developers.google.com/sheets/api/guides/values)
+[Github](https://github.com/googleworkspace/java-samples/tree/main/sheets/snippets/src/main/java)
+
+
