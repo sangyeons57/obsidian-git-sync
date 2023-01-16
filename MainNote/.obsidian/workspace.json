@@ -6,6 +6,7 @@
       {
         "id": "7c0b455bc302a732",
         "type": "tabs",
+        "dimension": 66.31455399061032,
         "children": [
           {
             "id": "21e2dedb42cd9bb9",
@@ -14,9 +15,24 @@
               "type": "markdown",
               "state": {
                 "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fbe7e99bff2acf35",
+        "type": "tabs",
+        "dimension": 33.68544600938967,
+        "children": [
+          {
+            "id": "2058532858c54d9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +158,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "21e2dedb42cd9bb9",
+  "active": "2058532858c54d9b",
   "lastOpenFiles": [
+    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "무제 파일.canvas",
     "구버전노트/01/프로젝트/하고싶은거.md",
     "구버전노트/01/Dictionary/Java/응용/Selenium.md",
@@ -155,7 +168,6 @@
     "구버전노트/01/Dictionary/Unity/응용/TestFrameWork.md",
     "구버전노트/01/Dictionary/HTML+CSS/CSS/Css selectors.md",
     "2023-01-16.md",
-    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "제텔카스텐 노트/GoogleSheetAPI.md",
     "무제 파일.md"
   ]
