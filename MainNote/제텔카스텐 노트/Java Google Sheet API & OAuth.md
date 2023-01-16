@@ -33,7 +33,10 @@ dependencies {
 	implementation 'com.google.apis:google-api-services-drive:v3-rev20220815-2.0.0'  
 }
 ```
+mainClassName 은 말그대로 mainClassName이다 해당 이름으로 파일이름을 하고 메인함수를 만들어야 한다.
 
+---
+---
 
 [Github](https://github.com/googleworkspace/java-samples/blob/main/drive/quickstart/src/main/java/DriveQuickstart.java)
 ```Java
@@ -139,6 +142,8 @@ public class DriveQuickstart {
 
 
 jdk버전이랑 안 맞는 경우가있다 그때는 자바버전을 해당 버전에 맞게 해줘야한다
-r
 
+다운로드 받은 Json 파일을 
+위코드에   CREDENTIALS_FILE_PATH 에 나와있는것처럼 바꿔주어야 한다
 
+[Java Goo]
