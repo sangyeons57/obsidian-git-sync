@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
+                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
+                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
+                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md"
+                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md"
               }
             }
           }
@@ -199,7 +199,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a433cf986ae4dfd5",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
     "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
     "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
