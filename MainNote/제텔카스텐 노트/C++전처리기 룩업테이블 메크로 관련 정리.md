@@ -75,3 +75,12 @@ void main()
 \#elif ~\#else
 일반적인 else if와 else이다
 
+---
+### Include보호 - guards
+조건부 컴파일의 부분
+이미 한번 Include된 파일 을 또 Include하면 중보으로 코드가 생성되기 때무에 그걸 막기위해앴는 것이다
+```Cpp
+#ifndef A
+#define A
+#endif
+```
