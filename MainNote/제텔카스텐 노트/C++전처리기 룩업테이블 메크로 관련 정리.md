@@ -26,7 +26,7 @@
 
 ### 조건부 컴파일
 코드가 특정조건에서 컴파일 에서 제외된다
-\#ifdef \#iffdef  \#iff \#elif \#else 등이 있다.
+\#ifdef \#ifndef  \#iff \#elif \#else 등이 있다.
 
 특징
 값을 입력하는 시점은 컴파일이 모두 완료된 런타임 시점
@@ -46,7 +46,7 @@ void main()
 }
 ```
 
-\#ifdef ~ \#endif
+\#ifdef  ~ \#endif
 ABCD 가 define 으로 정의되어있다면 실행
 ```Cpp
 #define ABCD
@@ -60,4 +60,18 @@ void main()
 ```
 
 \#ifndef ~ \#endif
-i
+ABCD 가 define으로 정의되어있지 않으면 실행
+```Cpp
+#define ABCD
+
+void main()
+{
+#ifndef ABCD
+  cout << "ABCD는 정의되어 있지 않음" << endl;
+#endif
+}
+```
+
+\#elif ~\#else
+일반적인 else if와 else이다
+
