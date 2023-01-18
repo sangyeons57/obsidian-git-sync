@@ -76,11 +76,14 @@ void main()
 일반적인 else if와 else이다
 
 ---
-### Include보호 - guards
+### Include보호 - guards 
+#guard #include보호
 조건부 컴파일의 부분
 이미 한번 Include된 파일 을 또 Include하면 중보으로 코드가 생성되기 때무에 그걸 막기위해앴는 것이다
 ```Cpp
-#ifndef A
-#define A
-#endif
+#define A - 이부분이 적용됨
+#ifndef A - 이미 A가 존재함
+#define A - 따라서 이부분 적용안됨
+#endif    - 종료
 ```
+\#include 도 같은 방법으로 같은파일이 두번 로드되는 일을 막는다.

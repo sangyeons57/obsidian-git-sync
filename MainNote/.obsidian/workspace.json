@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#조건부컴파일",
+                "query": "tag:#gards",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
