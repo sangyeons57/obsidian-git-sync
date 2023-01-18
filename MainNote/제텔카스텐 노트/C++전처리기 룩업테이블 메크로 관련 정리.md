@@ -1,4 +1,4 @@
-#전처리기 #룩업테이블 #메클 #define #cpp 
+#전처리기 #룩업테이블 #메클 #define #cpp #조건부_컴파일 #컴파일
 
 [전처리기 관련 내용](https://www.iar.com/kr/knowledge/learn/programming/basics-of-using-the-preprocessor/)
 
@@ -23,3 +23,10 @@
 
 
 ### 조건부 컴파일
+코드가 특정조건에서 컴파일 에서 제외된다
+\#ifdef \#iffdef  \#iff \#elif \#else 등이 있다.
+
+특징
+값을 입력하는 시점은 컴파일이 모두 완료된 런타임 시점
+지역변수나 전역변수를 이용해 비교할수 없다 컴파일이 이미 끝났기 때문
+->따라서 컴파일 이전에 조건을 비교해야 히기 때문에 저처리기 단계에서 조건을 비교한다 = 전처

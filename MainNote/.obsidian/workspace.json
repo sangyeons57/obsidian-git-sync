@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#조건부컴파일",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "49b4d1795e9c77d5",
+  "active": "13af45f495d913bb",
   "lastOpenFiles": [
     "제텔카스텐 노트/cpp include 차이.md",
     "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
