@@ -1,4 +1,4 @@
-#전처리기 #룩업테이블 #메클 #define #cpp #조건부_컴파일 #컴파일
+#전처리기 #메크로 #define #cpp #조건부_컴파일 #컴파일
 
 [전처리기 관련 내용](https://www.iar.com/kr/knowledge/learn/programming/basics-of-using-the-preprocessor/)
 
@@ -87,3 +87,14 @@ void main()
 #endif    - 종료
 ```
 \#include 도 같은 방법으로 같은파일이 두번 로드되는 일을 막는다.
+
+---
+---
+### Error 지시어
+#error지시어 
+컴파일전 코드를 검사할때 사용한다
+```Cpp
+#if USE_COLORS && !HAVE_DISPLAY
+#error "You cannot use colors unless you have a display"
+#endif
+```
