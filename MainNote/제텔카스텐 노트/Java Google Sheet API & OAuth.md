@@ -1,6 +1,7 @@
 #Java #OAuth #GoogleSheetAPI #gradle
 
 [Java Quick Start 공식 구글시트 퀵스타트 가이드](https://developers.google.com/sheets/api/quickstart/java)
+[[Java GoogleSheet Api]] 성공내용
 
 [Google Cloud](https://console.cloud.google.com/) 에서 프로젝트를 생성 해야한다.
 API & Services 에서 Credentials부분에 들어가서

@@ -9,103 +9,18 @@
         "dimension": 66.31455399061032,
         "children": [
           {
-            "id": "21e2dedb42cd9bb9",
+            "id": "bb6d0d9088b134f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21217e7c6ba8719d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2bbe86ba334bc4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a433cf986ae4dfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67ce065eaede57c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "997dd13cae49ddbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/cpp include 차이.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49b4d1795e9c77d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc3be57bd1116b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/C++ 룩업 테이블.md",
+                "file": "제텔카스텐 노트/Java GoogleSheet Api.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "fbe7e99bff2acf35",
@@ -186,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/C++ 룩업 테이블.md",
+                "file": "제텔카스텐 노트/Java GoogleSheet Api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/C++ 룩업 테이블.md",
+                "file": "제텔카스텐 노트/Java GoogleSheet Api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/C++ 룩업 테이블.md"
+                "file": "제텔카스텐 노트/Java GoogleSheet Api.md"
               }
             }
           }
@@ -247,17 +162,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc3be57bd1116b52",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
-    "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
+    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
+    "제텔카스텐 노트/Java GoogleSheet Api.md",
     "제텔카스텐 노트/C++ 룩업 테이블.md",
+    "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
     "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
     "구버전노트/01/자료/무제노트.md",
     "제텔카스텐 노트/cpp include 차이.md",
     "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
-    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "매일/2023/3주차/1월 26일.md",
-    "취미생활/음악/고세구(yeppSun) - 아련히 남아있는 여름날의 기억.md",
-    "2023-01-16.md"
+    "취미생활/음악/고세구(yeppSun) - 아련히 남아있는 여름날의 기억.md"
   ]
 }
