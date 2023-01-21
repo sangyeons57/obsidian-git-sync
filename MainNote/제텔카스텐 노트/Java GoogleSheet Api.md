@@ -117,29 +117,31 @@ public class SheetsQuickstart {
   
     /**  
      * Prints the names and majors of students in a sample spreadsheet:     * https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit     */    
-     public static Sheets getSheetsService() throws IOException, GeneralSecurityException {  
-        Credential credential = authorize();  
-        return new Sheets.Builder(GoogleNetHttpTransport.newTrustedTransport(),  
+public static Sheets getSheetsService() throws IOException, GeneralSecurityException {  
+
+	Credential credential = authorize();  
+
+    return new Sheets.Builder(GoogleNetHttpTransport.newTrustedTransport(),  
                 GsonFactory.getDefaultInstance(), credential)  
                 .setApplicationName(APPLICATION_NAME)  
                 .build();  
     }  
   
-    public static void  main(String[] args) throws  IOException, GeneralSecurityException {  
+public static void  main(String[] args) throws  IOException, GeneralSecurityException {  
 		//서비스 가져오기
-        sheetsService = getSheetsService();  
+	sheetsService = getSheetsService();  
 
 
 //업데이틑 할때쓴느 코드
-        ValueRange body = new ValueRange()  
-                .setValues(Arrays.asList(  
-                        Arrays.asList("updated")  
-                ));  
+    ValueRange body = new ValueRange()  
+        .setValues(Arrays.asList(  
+            Arrays.asList("updated")  
+        ));  
   
-        UpdateValuesResponse result = sheetsService.spreadsheets().values()  
-                .update(SPREADSHEET_ID, "A1", body)  
-                .setValueInputOption("RAW")  
-                .execute();  
+    UpdateValuesResponse result = sheetsService.spreadsheets().values()  
+        .update(SPREADSHEET_ID, "A1", body)  
+        .setValueInputOption("RAW")  
+        .execute();  
 //append create할때 쓰는 코드
 	ValueRange appendBody = new ValueRange()  
         .setValues( Arrays.asList(
