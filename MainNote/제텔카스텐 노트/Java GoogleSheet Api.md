@@ -91,7 +91,8 @@ public class SheetsQuickstart {
 		resources 폴더에 넣는다
 		*/
         InputStream in = SheetsQuickstart.class.getResourceAsStream("/credentials.json");  
-        
+
+
         GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(  
                 GsonFactory.getDefaultInstance(), new InputStreamReader(in)  
         );  
@@ -125,8 +126,11 @@ public class SheetsQuickstart {
     }  
   
     public static void  main(String[] args) throws  IOException, GeneralSecurityException {  
+		//서비스 가져오기
         sheetsService = getSheetsService();  
-  
+
+
+//업데이틑 할때쓴느 코드
         ValueRange body = new ValueRange()  
                 .setValues(Arrays.asList(  
                         Arrays.asList("updated")  
@@ -136,16 +140,25 @@ public class SheetsQuickstart {
                 .update(SPREADSHEET_ID, "A1", body)  
                 .setValueInputOption("RAW")  
                 .execute();  
+//append create할때 쓰는 코드
+	ValueRange appendBody = new ValueRange()  
+        .setValues( Arrays.asList(
+	        Arrays.asList("바보")  
+        ));  
+AppendValuesResponse appendValuesResponse = sheetsService.spreadsheets().values()  
+        .append(SPREADSHEET_ID, "A", appendBody)        .setValueInputOption("USER_ENTERED")        .setInsertDataOption("INSERT_ROWS")        .setIncludeValuesInResponse(true)        .execute();
+
+//read할때 쓰는 코드
+String range = "A!D2:E13";  
   
-        /**  
-        ValueRange appendBody = new ValueRange()                .setValues( Arrays.asList(                        Arrays.asList("바보")  
-                ));  
-        AppendValuesResponse appendValuesResponse = sheetsService.spreadsheets().values()                .append(SPREADSHEET_ID, "A", appendBody)                .setValueInputOption("USER_ENTERED")                .setInsertDataOption("INSERT_ROWS")                .setIncludeValuesInResponse(true)                .execute();         */  
-        /**        String range = "A!D2:E13";  
-        ValueRange response = sheetsService.spreadsheets().values()                .get(SPREADSHEET_ID, range)                .execute();  
-        List<List<Object>> values = response.getValues();  
+ValueRange response = sheetsService.spreadsheets().values()  
+        .get(SPREADSHEET_ID, range)        .execute();  
+List<List<Object>> values = response.getValues();  
   
-        if (values == null || values.isEmpty()) {            System.out.println("No data found.");        } else {            for (List row: values) {                System.out.println(row.get(0));            }        }         */  
+if (values == null || values.isEmpty()) {  
+    System.out.println("No data found.");} else {  
+    for (List row: values) {        System.out.println(row.get(0));    }}
+  
     }  
   
 }
