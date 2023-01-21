@@ -133,22 +133,27 @@ public static void  main(String[] args) throws  IOException, GeneralSecurityExce
 
 
 //업데이틑 할때쓴느 코드
-    ValueRange body = new ValueRange()  
-        .setValues(Arrays.asList(  
-            Arrays.asList("updated")  
-        ));  
-  
-    UpdateValuesResponse result = sheetsService.spreadsheets().values()  
-        .update(SPREADSHEET_ID, "A1", body)  
-        .setValueInputOption("RAW")  
-        .execute();  
+ValueRange body = new ValueRange()  
+	.setValues(Arrays.asList(  
+		Arrays.asList("updated")  
+	));  
+
+UpdateValuesResponse result = sheetsService.spreadsheets().values()  
+	.update(SPREADSHEET_ID, "A1", body)  
+	.setValueInputOption("RAW")  
+	.execute();  
 //append create할때 쓰는 코드
-	ValueRange appendBody = new ValueRange()  
-        .setValues( Arrays.asList(
-	        Arrays.asList("바보")  
-        ));  
+ValueRange appendBody = new ValueRange()  
+	.setValues( Arrays.asList(
+		Arrays.asList("바보")  
+	));  
+
 AppendValuesResponse appendValuesResponse = sheetsService.spreadsheets().values()  
-        .append(SPREADSHEET_ID, "A", appendBody)        .setValueInputOption("USER_ENTERED")        .setInsertDataOption("INSERT_ROWS")        .setIncludeValuesInResponse(true)        .execute();
+	.append(SPREADSHEET_ID, "A", appendBody)
+	.setValueInputOptioe("USER_ENTERED")
+	.setInsertDataOption("INSERT_ROWS")
+	.setIncludeValuesInResponse(true)
+	.execute();
 
 //read할때 쓰는 코드
 String range = "A!D2:E13";  
