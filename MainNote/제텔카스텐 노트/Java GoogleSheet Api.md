@@ -159,13 +159,14 @@ AppendValuesResponse appendValuesResponse = sheetsService.spreadsheets().values(
 String range = "A!D2:E13";  
   
 ValueRange response = sheetsService.spreadsheets().values()  
-        .get(SPREADSHEET_ID, range)        .execute();  
+	.get(SPREADSHEET_ID, range)        
+	.execute();  
 List<List<Object>> values = response.getValues();  
   
 if (values == null || values.isEmpty()) {  
     System.out.println("No data found.");} else {  
-    for (List row: values) {        System.out.println(row.get(0));    }}
-  
+    for (List row: values) {
+        System.out.println(row.get(0));    }}
     }  
   
 }
