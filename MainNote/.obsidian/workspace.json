@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Java GoogleSheet Api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Java GoogleSheet Api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "제텔카스텐 노트/Java GoogleSheet Api.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,10 +158,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a28890acb286492c",
+  "active": "2058532858c54d9b",
   "lastOpenFiles": [
-    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
+    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "제텔카스텐 노트/C++ 룩업 테이블.md",
     "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
     "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
