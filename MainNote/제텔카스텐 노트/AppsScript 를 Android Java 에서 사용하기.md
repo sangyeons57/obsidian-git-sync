@@ -34,23 +34,44 @@ import java.util.Map;
   
 public class MainActivity extends AppCompatActivity {  
   
+    EditText etName, etPhone, etAddres;  
+    Button btnInsert;  
+    ProgressDialog progressDialog;  
+  
     @Override  
     protected void onCreate(Bundle savedInstanceState) {  
         super.onCreate(savedInstanceState);  
         setContentView(R.layout.activity_main);  
-
-		start();
+  
+        etName = findViewById(R.id.editTextTextPersonName);  
+        etName = findViewById(R.id.editTextTextPersonName2);  
+        etName = findViewById(R.id.editTextTextPersonName3);  
+        btnInsert = findViewById(R.id.button);  
+  
+        progressDialog = new ProgressDialog(MainActivity.this);  
+        progressDialog.setMessage("LOADING....");  
+  
+        btnInsert.setOnClickListener(new View.OnClickListener(){  
+            @Override  
+            public void onClick(View v) {  
+                addStudentData();  
+                progressDialog.show();  
+            }  
+        });  
     }  
   
-    public void start() {  
+    public void addStudentData() {  
         String sName = "a";  
         String sPhone = "b";  
         String sAddress = "c";  
   
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://script.google.com/macros/s/AKfycbw0o541rCPujyCnGFy5qVrKCLHX3jpaHvE2A7olEo5gtikcEwheB__3Dj6i7V__rfs8/exec", new Response.Listener<String>() {  
+		StringRequest stringRequest = new StringRequest(Request.Method.POST,
+		 "https://script.google.com/macros/s/AKfycbw0o541rCPujyCnGFy5qVrKCLHX3jpaHvE2A7olEo5gtikcEwheB__3Dj6i7V__rfs8/exec",		 
+		 new Response.Listener<String>() {  
             @Override  
             public void onResponse(String response) {  
-                System.out.println("SUCCESS");  
+                /**  
+                Intent intent = new Intent(getApplicationContext(), SuccessActivity.class);;                startActivity(intent);                progressDialog.hide();                 */                System.out.println("SUCCESS");  
             }  
         }, new Response.ErrorListener() {  
             @Override  
@@ -78,5 +99,4 @@ public class MainActivity extends AppCompatActivity {
         requestQueue.add(stringRequest);  
     }  
 }
-
 ```
