@@ -1,9 +1,13 @@
-#ApsScript #Android #Java 
+#ApsScript #Android #Java #REST #RestAPI
 Android Java 에서 google sheet api를 사용하는것이 힘들어서
 Android Java로 AppsScript를 실행시키고 AppsScript에서 google sheet를 사용하는 방식을 사용했다.
 
-우선 코드다
+우선 전체 코드다
 Android Java
+```
+이거 필요하다
+implementation 'com.android.volley:volley:1.2.1'
+```
 ```Java
 package com.example.googlesheets;  
   
@@ -43,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);  
         setContentView(R.layout.activity_main);  
   
+  
         etName = findViewById(R.id.editTextTextPersonName);  
         etName = findViewById(R.id.editTextTextPersonName2);  
         etName = findViewById(R.id.editTextTextPersonName3);  
@@ -65,13 +70,11 @@ public class MainActivity extends AppCompatActivity {
         String sPhone = "b";  
         String sAddress = "c";  
   
-		StringRequest stringRequest = new StringRequest(Request.Method.POST,
-		 "https://script.google.com/macros/s/AKfycbw0o541rCPujyCnGFy5qVrKCLHX3jpaHvE2A7olEo5gtikcEwheB__3Dj6i7V__rfs8/exec",		 
-		 new Response.Listener<String>() {  
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://script.google.com/macros/s/AKfycbzzMCtQXr0lXTuNW6cPmkKULispaTditibdNLNFW8r9YMHxcbBgZQZMKHkXULIV2Dz1/exec", new Response.Listener<String>() {  
             @Override  
             public void onResponse(String response) {  
-                /**  
-                Intent intent = new Intent(getApplicationContext(), SuccessActivity.class);;                startActivity(intent);                progressDialog.hide();                 */                System.out.println("SUCCESS");  
+                System.out.println("SUCCESS");  
+                System.out.println(response);  
             }  
         }, new Response.ErrorListener() {  
             @Override  
@@ -80,9 +83,10 @@ public class MainActivity extends AppCompatActivity {
             }  
         }){  
             @Nullable  
-            @Override            protected Map<String, String> getParams() throws AuthFailureError {  
+            @Override            
+            protected Map<String, String> getParams() throws AuthFailureError {  
                 Map<String,String> params = new HashMap<>();  
-                params.put("action","addStudent");  
+                params.put("action","test");  
                 params.put("vName", sName);  
                 params.put("vPhone", sPhone);  
                 params.put("vAddress",sAddress);  
@@ -99,4 +103,40 @@ public class MainActivity extends AppCompatActivity {
         requestQueue.add(stringRequest);  
     }  
 }
+
+```
+
+
+중요부분만 정리
+
+
+우선 이건 StringRequest가 주축으로 작동된다.
+
+```Java
+
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://script.google.com/macros/s/AKfycbzzMCtQXr0lXTuNW6cPmkKULispaTditibdNLNFW8r9YMHxcbBgZQZMKHkXULIV2Dz1/exec", new Response.Listener<String>() {  
+            @Override  
+            public void onResponse(String response) {  
+                System.out.println("SUCCESS");  
+                System.out.println(response);  
+            }  
+        }, new Response.ErrorListener() {  
+            @Override  
+            public void onErrorResponse(VolleyError error) {  
+                System.out.println("NOT");  
+            }  
+        }){  
+            @Nullable  
+            @Override            
+            protected Map<String, String> getParams() throws AuthFailureError {  
+                Map<String,String> params = new HashMap<>();  
+                params.put("action","test");  
+                params.put("vName", sName);  
+                params.put("vPhone", sPhone);  
+                params.put("vAddress",sAddress);  
+  
+                return params;  
+            }  
+        };
+
 ```
