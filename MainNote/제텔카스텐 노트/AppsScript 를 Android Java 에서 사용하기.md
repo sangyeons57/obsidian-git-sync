@@ -172,6 +172,48 @@ new Response.Listener<String>() {
 그냥 위에거는 성공했을때고
 아레부분은 실패했을때다
 성공할때 값을 가져올수있다
+
+아레는 가져오는 부분 AppsScript다 doGet이게때무에GET 타입으로 해더를 설정해야한다
 ```Javascript
-function 
+
+function doGet(e) {
+	return test();
+}
+
+function test() {
+	return ContentService.createTextOutPut("abc");
+}
+
+
+```
+
+---
+다음은
+```Java
+{  
+	@Nullable  
+	@Override            
+	protected Map<String, String> getParams() throws AuthFailureError {  
+		Map<String,String> params = new HashMap<>();  
+		params.put("action","test");  
+		params.put("vName", sName);  
+		params.put("vPhone", sPhone);  
+		params.put("vAddress",sAddress);  
+
+		return params;  
+	}  
+};
+```
+이부분인데 파라미터를 넣는 부분이다.
+
+AppsScript부분에서는
+```Javascript
+function doPost(e) {
+	var name = e.parameter.vName;
+	var phone = e.parameter.vPhone;
+	var address = e.parameter.vAddress;
+	var action = e.parameter.action;
+	//이렇게 받는다
+
+}
 ```
