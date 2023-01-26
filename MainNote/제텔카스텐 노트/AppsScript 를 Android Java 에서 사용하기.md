@@ -217,3 +217,24 @@ function doPost(e) {
 
 }
 ```
+
+---
+
+마지막 부분이다.
+```Java
+
+int socketTimeout = 50000;  
+RetryPolicy retryPolicy = new DefaultRetryPolicy(socketTimeout,0,DefaultRetryPolicy.DEFAULT_BACKOFF_MULT);  
+stringRequest.setRetryPolicy(retryPolicy);  
+
+RequestQueue requestQueue = Volley.newRequestQueue(this);  
+requestQueue.add(stringRequest);  
+
+```
+
+이쪽부분은 StringRequest부분 변수를 
+\<여기\>.setRetryPolicy(retryPolicy); 랑
+requestQueue.add(\<여기\>); 에넣어 주면 된다
+
+자세한 역하릉 잘 모르겠지만
+실해시켜주는 부분이랑 설정하는 부분인것같다.
