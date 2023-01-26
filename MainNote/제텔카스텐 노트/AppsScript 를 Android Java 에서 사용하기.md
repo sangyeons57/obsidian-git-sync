@@ -109,9 +109,6 @@ public class MainActivity extends AppCompatActivity {
 
 중요부분만 정리
 
-
-우선 이건 StringRequest가 주축으로 작동된다.
-
 ```Java
 
         StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://script.google.com/macros/s/AKfycbzzMCtQXr0lXTuNW6cPmkKULispaTditibdNLNFW8r9YMHxcbBgZQZMKHkXULIV2Dz1/exec", new Response.Listener<String>() {  
@@ -140,3 +137,16 @@ public class MainActivity extends AppCompatActivity {
         };
 
 ```
+
+우선 이건 StringRequest가 주축으로 작동된다.
+Appscript REST API 중 POST 와 GET 만 작동한다
+
+각각 AppsScrip에서 doGet() 함수와 doPost()함수를 실행 시킨다
+일반적으로 쓸때는 POST 읽을때는GET을 사용한다
+```Java
+Request.Method.POST
+Request.Method.GET
+```
+
+그다음 공간에응 배포한 AppsScript의 url 을 적는데
+코드를 바꿀때 마다 제배포해서 새로운 url 을 사용해야 한다.
