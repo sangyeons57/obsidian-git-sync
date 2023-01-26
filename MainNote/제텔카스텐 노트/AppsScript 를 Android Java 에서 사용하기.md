@@ -147,6 +147,31 @@ Appscript REST API 중 POST 와 GET 만 작동한다
 Request.Method.POST
 Request.Method.GET
 ```
-
+---
 그다음 공간에응 배포한 AppsScript의 url 을 적는데
 코드를 바꿀때 마다 제배포해서 새로운 url 을 사용해야 한다.
+배포관리에서 다시 하면 된다
+
+---
+그다음 으로는
+new Response.Listener\<String\>() {} 부분과
+new Response.ErrorListener() {}이다
+```Java
+new Response.Listener<String>() {  
+	@Override  
+	public void onResponse(String response) {  
+		System.out.println("SUCCESS");  
+		System.out.println(response);  
+	}  
+}, new Response.ErrorListener() {  
+	@Override  
+	public void onErrorResponse(VolleyError error) {  
+		System.out.println("NOT");  
+	}  
+```
+그냥 위에거는 성공했을때고
+아레부분은 실패했을때다
+성공할때 값을 가져올수있다
+```Javascript
+function 
+```
