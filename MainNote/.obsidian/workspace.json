@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
+                "file": "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
+                "file": "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
+                "file": "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md"
+                "file": "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md"
               }
             }
           }
@@ -170,11 +170,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a28890acb286492c",
+  "active": "bb6d0d9088b134f4",
   "lastOpenFiles": [
+    "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
     "Pasted image 20230126220949.png",
-    "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
     "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
     "제텔카스텐 노트/C++ 룩업 테이블.md",
     "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
