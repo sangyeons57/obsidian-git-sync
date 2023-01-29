@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fbe7e99bff2acf35",
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 21화 구조체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/어소드락 21화 구조체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "제텔카스텐 노트/어소드락 21화 구조체.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,8 +179,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "994c3ec027b24365",
+  "active": "9d2dacf58bc7179f",
   "lastOpenFiles": [
+    "제텔카스텐 노트/어소드락 21화 구조체.md",
     "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
     "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
@@ -193,7 +190,6 @@
     "제텔카스텐 노트/C++ 룩업 테이블.md",
     "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
     "구버전노트/01/자료/무제노트.md",
-    "제텔카스텐 노트/cpp include 차이.md",
-    "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md"
+    "제텔카스텐 노트/cpp include 차이.md"
   ]
 }
