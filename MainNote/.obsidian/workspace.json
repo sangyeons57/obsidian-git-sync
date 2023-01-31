@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/선형보간 LERP.md",
+                "file": "제텔카스텐 노트/cpp include 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:cpp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/선형보간 LERP.md",
+                "file": "제텔카스텐 노트/cpp include 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/선형보간 LERP.md",
+                "file": "제텔카스텐 노트/cpp include 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/선형보간 LERP.md"
+                "file": "제텔카스텐 노트/cpp include 차이.md"
               }
             }
           }
@@ -189,15 +190,15 @@
   },
   "active": "9d2dacf58bc7179f",
   "lastOpenFiles": [
+    "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
+    "Pasted image 20230126221447.png",
+    "제텔카스텐 노트/C++ 룩업 테이블.md",
+    "제텔카스텐 노트/선형보간 LERP.md",
     "제텔카스텐 노트/어소드락 21화 구조체.md",
     "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
     "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
     "Pasted image 20230126220949.png",
-    "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
-    "제텔카스텐 노트/C++ 룩업 테이블.md",
-    "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
-    "구버전노트/01/자료/무제노트.md",
-    "제텔카스텐 노트/cpp include 차이.md"
+    "제텔카스텐 노트/Java Google Sheet API & OAuth.md"
   ]
 }
