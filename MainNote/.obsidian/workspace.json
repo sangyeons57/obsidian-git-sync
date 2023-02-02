@@ -68,8 +68,12 @@
             "id": "2058532858c54d9b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cpp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/포인터와 배열.md",
+                "file": "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/포인터와 배열.md",
+                "file": "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/포인터와 배열.md"
+                "file": "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md"
               }
             }
           }
@@ -199,8 +204,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f93013e4d0705031",
+  "active": "2058532858c54d9b",
   "lastOpenFiles": [
+    "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
+    "제텔카스텐 노트/포인터와 배열.md",
     "제텔카스텐 노트/포인터와 운영체제 관계.md",
     "제텔카스텐 노트/어소드락 21화 구조체.md",
     "무제 파일.canvas",
@@ -208,8 +215,6 @@
     "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
     "Pasted image 20230126221447.png",
     "제텔카스텐 노트/C++ 룩업 테이블.md",
-    "제텔카스텐 노트/선형보간 LERP.md",
-    "제텔카스텐 노트/어소드락 강의 11화 비트연산자.md",
-    "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md"
+    "제텔카스텐 노트/선형보간 LERP.md"
   ]
 }
