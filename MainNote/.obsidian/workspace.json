@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2058532858c54d9b",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
     "제텔카스텐 노트/C++전처리기 메크로 관련 정리.md",
     "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
