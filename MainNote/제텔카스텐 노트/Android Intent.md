@@ -7,4 +7,6 @@ Intent intent = getIntent();
 intent.putExtra(key값,value값);
 startActivity(intent);
 ```
-각각 intetn생성
+각각 intent생성
+intent에 파리미터 생성
+intent 실행
