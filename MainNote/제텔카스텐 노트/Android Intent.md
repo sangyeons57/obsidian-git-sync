@@ -14,5 +14,7 @@ intent 실행
 
 받는부분
 ```Java
-
+Intent secondIntent = getIntent();
+secondIntent.getIntExtra(key값);
 ```
+getExtra는 들어오는 값에 따라 달라진다.
