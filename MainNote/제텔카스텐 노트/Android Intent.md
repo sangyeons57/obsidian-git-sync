@@ -1,5 +1,9 @@
+#Android #Java #Intent 
+
+
 ```Java
 Intent intent = getIntent();
-String message = intent.getStringExtra(Extra);
+intent.putExtra(,);
+
 
 ```
