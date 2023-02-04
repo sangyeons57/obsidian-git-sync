@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5df7e833b33665f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/Android On.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "fbe7e99bff2acf35",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md",
+                "file": "제텔카스텐 노트/Android On.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md",
+                "file": "제텔카스텐 노트/Android On.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md"
+                "file": "제텔카스텐 노트/Android On.md"
               }
             }
           }
@@ -199,8 +211,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ea3c904a770fd3e1",
+  "active": "d5df7e833b33665f",
   "lastOpenFiles": [
+    "제텔카스텐 노트/안드로이드 자바 생명주기.md",
     "제텔카스텐 노트/Java Global Keyboard Mouse Listeners.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
     "제텔카스텐 노트/Java Google Sheet API & OAuth.md",
@@ -209,7 +222,6 @@
     "제텔카스텐 노트/어소드락 강의 3화 정수형 자료형.md",
     "제텔카스텐 노트/포인터와 배열.md",
     "제텔카스텐 노트/포인터와 운영체제 관계.md",
-    "제텔카스텐 노트/어소드락 21화 구조체.md",
-    "무제 파일.canvas"
+    "제텔카스텐 노트/어소드락 21화 구조체.md"
   ]
 }
