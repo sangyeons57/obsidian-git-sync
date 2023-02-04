@@ -10,3 +10,9 @@ startActivity(intent);
 각각 intent생성
 intent에 파리미터 생성
 intent 실행
+
+
+받는부분
+```Java
+
+```
