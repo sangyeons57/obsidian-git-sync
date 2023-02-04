@@ -45,31 +45,19 @@
             }
           },
           {
-            "id": "f93013e4d0705031",
+            "id": "ea3c904a770fd3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/포인터와 배열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "708433063f0b1703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제텔카스텐 노트/Java Global Keyboard Mouse Listeners.md",
+                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "fbe7e99bff2acf35",
@@ -150,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "제텔카스텐 노트/안드로이드 자바 생명주기.md"
+              }
             }
           }
         ]
@@ -207,7 +199,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2058532858c54d9b",
+  "active": "ea3c904a770fd3e1",
   "lastOpenFiles": [
     "제텔카스텐 노트/Java Global Keyboard Mouse Listeners.md",
     "제텔카스텐 노트/Java GoogleSheet Api.md",
