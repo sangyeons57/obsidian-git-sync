@@ -31,3 +31,6 @@ Uri.parse(특정한검색용값);
 Intent intent = new(Intent.ACTION_VIEW, uri 값)
 startIntent(intent);
 이렇게 실행한다
+
+if (intent.resolveActivity(getPackageManager()) != null) {
+이건은 작동이 안되는데 어떻게 해야할지 모르겠다.
