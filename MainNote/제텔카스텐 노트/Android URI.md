@@ -4,3 +4,9 @@
 URI가 더 큰 범위
 URI: 식별자
 URL: 주소
+```Java
+Intent intent = new Intent
+```
+   // Get the string indicating a location. Input is not validated; it is   // passed to the location handler intact.   String loc = mLocationEditText.getText().toString();   // Parse the location and create the intent.   Uri addressUri = Uri.parse("geo:0,0?q=" + loc);   Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);   // Find an activity to handle the intent, and start that activity.   if (intent.resolveActivity(getPackageManager()) != null) {       startActivity(intent);   } else {       Log.d("ImplicitIntents", "Can't handle this intent!");   }
+```
+```
