@@ -28,3 +28,4 @@ if (intent.resolveActivity(getPackageManager()) != null) {
 ```
 Activity 생성
 Uri.parse(특정한검색용값);
+Intent intent = new(Intent.ACTION_VIEW, uri 값)
