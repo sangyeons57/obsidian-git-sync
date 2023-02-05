@@ -4,8 +4,27 @@
 URI가 더 큰 범위
 URI: 식별자
 URL: 주소
+
 ```Java
+
+String url = mWebsiteEditText.getText().toString();
+Uri webpage = Uri.parse(url);
+Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
+if (intent.resolveActivity(getPackageManager()) != null) {
+   startActivity(intent);
+} else {
+   Log.d("ImplicitIntents", "Can't handle this intent!");
+}
+
 Intent intent = new Intent
 String loc = mLocationEditText.getText().toString();
-Uri addressUri = Uri.parse("geo:0,0?q=" + loc);   Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);   // Find an activity to handle the intent, and start that activity.   if (intent.resolveActivity(getPackageManager()) != null) {       startActivity(intent);   } else {       Log.d("ImplicitIntents", "Can't handle this intent!");   }
+Uri addressUri = Uri.parse("geo:0,0?q=" + loc);
+Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);
+if (intent.resolveActivity(getPackageManager()) != null) {
+	startActivity(intent);
+} else {
+	Log.d("ImplicitIntents", "Can't handle this intent!");
+}
 ```
+Activity 생성
+Uri.parse(특정한검색용값);
