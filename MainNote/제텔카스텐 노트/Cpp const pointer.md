@@ -26,10 +26,18 @@ cout << cInt << endl;
 int a = 0;
 const int* pConstInt = &a;
 
-*pConstInt = 100;
+*pConstInt = 100; // 에러가난다.
+
 ```
 
-```Cp
+포인터를 상수화
+```Cpp
 int a = 0;
 int* const pIntConst = &a;
+
+*pIntConst = 100; //포인터가 상수화 된거여서 값을 바꿀수있다.
+```
+
+둘다 상수화
+``ㅏㅏ`
 ```
