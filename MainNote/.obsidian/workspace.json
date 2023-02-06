@@ -11,15 +11,11 @@
             "id": "c9d389df569eb8d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "제텔카스텐 노트/생각노트 2023-02-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "제텔카스텐 노트/생각노트 2023-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "제텔카스텐 노트/생각노트 2023-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "제텔카스텐 노트/생각노트 2023-02-06.md"
               }
             }
           }
@@ -152,15 +148,15 @@
   },
   "active": "c9d389df569eb8d5",
   "lastOpenFiles": [
+    "제텔카스텐 노트/생각노트 2023-02-04.md",
+    "제텔카스텐 노트/생각노트 2023-02-06.md",
+    "무제 파일.canvas",
     "제텔카스텐 노트/Cpp const pointer.md",
     "제텔카스텐 노트/Android URI.md",
     "구버전노트/01/Dictionary/Java/기초/Stream - arrayStream.md",
     "구버전노트/01/Dictionary/Java/기초/Stream().md",
     "구버전노트/01/Dictionary/Java/기초/Stream - map (미완).md",
-    "제텔카스텐 노트/생각노트 2023-02-04.md",
     "제텔카스텐 노트/Android Intent.md",
-    "제텔카스텐 노트/Android ActivityResultLaucncher.md",
-    "제텔카스텐 노트/안드로이드 자바 생명주기.md",
-    "제텔카스텐 노트/Java Global Keyboard Mouse Listeners.md"
+    "제텔카스텐 노트/Android ActivityResultLaucncher.md"
   ]
 }
