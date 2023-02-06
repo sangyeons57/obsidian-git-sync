@@ -39,5 +39,9 @@ int* const pIntConst = &a;
 ```
 
 둘다 상수화
-``ㅏㅏ`
+```Cpp
+int a = 0;
+const int* const pIntConst = &a;
+
+*pIntConst = 100; //값도바꿀수없고 포인터도 바꿀수없다.
 ```
