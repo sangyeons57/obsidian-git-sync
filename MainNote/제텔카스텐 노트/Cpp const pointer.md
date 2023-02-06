@@ -21,7 +21,7 @@ cout << cInt << endl;
 ### pointer const
 바뀌지 못하는 포인터
 
-포인터가 가르키는 값을 상수화
+포인터가 가르키는 값을 상수화 => 가르키는 값을 못바꾸게함
 ```Cpp
 int a = 0;
 const int* pConstInt = &a;
@@ -30,7 +30,7 @@ const int* pConstInt = &a;
 
 ```
 
-포인터를 상수화
+포인터를 상수화 => 가르키
 ```Cpp
 int a = 0;
 int* const pIntConst = &a;
