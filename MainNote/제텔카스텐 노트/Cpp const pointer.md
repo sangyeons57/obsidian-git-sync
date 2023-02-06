@@ -30,7 +30,7 @@ const int* pConstInt = &a;
 
 ```
 
-포인터를 상수화 => 가르키
+포인터를 상수화 => 가르키는는 메모리위치를 수정을 못하게함
 ```Cpp
 int a = 0;
 int* const pIntConst = &a;
