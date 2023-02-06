@@ -1,6 +1,6 @@
 #cpp  #const #포인터 
 
-### const값을 pointer
+### const값을 pointer로 변환
 ```cpp
 const int cInt = 10;
 int* pInt = (int*)&cInt;
@@ -16,4 +16,20 @@ volatile const int cInt = 10;
 int* pInt = (int*)&cInt;
 *pInt = 20;
 cout << cInt << endl;
+```
+
+### pointer const
+바뀌지 못하는 포인터
+
+포인터가 가르키는 값을 상수화
+```Cpp
+int a = 0;
+const int* pConstInt = &a;
+
+*pConstInt = 100;
+```
+
+```Cp
+int a = 0;
+int* const pIntConst = &a;
 ```
