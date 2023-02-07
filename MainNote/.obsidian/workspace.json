@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/Android Implicit Intents.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Android Implicit Intents.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Android Implicit Intents.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/Android Implicit Intents.md"
+                "file": "제텔카스텐 노트/생각노트 2023-02-07.md"
               }
             }
           }
@@ -159,14 +159,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a28890acb286492c",
+  "active": "b5c927e1c02ff9a4",
   "lastOpenFiles": [
-    "제텔카스텐 노트/Android URI.md",
+    "제텔카스텐 노트/생각노트 2023-02-04.md",
+    "제텔카스텐 노트/생각노트 2023-02-07.md",
     "제텔카스텐 노트/Android Implicit Intents.md",
+    "제텔카스텐 노트/Android URI.md",
     "제텔카스텐 노트/Android ActivityResultLaucncher.md",
     "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
-    "제텔카스텐 노트/생각노트 2023-02-06.md",
-    "제텔카스텐 노트/생각노트 2023-02-04.md",
     "무제 파일.canvas",
     "제텔카스텐 노트/Cpp const pointer.md",
     "구버전노트/01/Dictionary/Java/기초/Stream - arrayStream.md",
