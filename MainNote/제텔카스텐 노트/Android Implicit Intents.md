@@ -9,7 +9,7 @@ Uri webpage = Uri.parse(url);
 //인텐트만들기
 Intent intent = new Intent(Intent.ACTION_VIEW, webpage);  
 
-//Acti
+//Activity가 존제할경우 실행하는 코드인데 잘 작동하지가 않는다.
 if (intent.resolveActivity(getPackageManager()) != null) {  
     startActivity(intent);  
 } else {  
