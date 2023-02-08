@@ -52,4 +52,4 @@ ShareCompat.IntentBuilder
 
 #### intent.resolveActivity(getPackageManager()) != null
 가 어떻게 쓰이는지 알았다
-여러가지 앱들중에 선어떤 앱으로 실행할지 선택하는 과정에서 쓰이는것 같다.
+여러가지 앱들중에 선어떤 앱으로 실행할지 선택하는 과정에서 쓰이는것  같다.
