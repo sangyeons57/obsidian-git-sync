@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d1f607bde4e0622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/퍼즐게임 만들기 방법.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/퍼즐게임 만들기 방법.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/퍼즐게임 만들기 방법.md"
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "30c2be8a6cbcc45e",
+  "active": "7d1f607bde4e0622",
   "lastOpenFiles": [
-    "제텔카스텐 노트/Android ActivityResultLaucncher.md",
-    "제텔카스텐 노트/퍼즐게임 만들기 방법.md",
-    "제텔카스텐 노트/Android Implicit Intents.md",
     "제텔카스텐 노트/생각노트 2023-02-07.md",
     "제텔카스텐 노트/생각노트 2023-02-04.md",
+    "제텔카스텐 노트/생각노트 2023-02-09.md",
+    "제텔카스텐 노트/퍼즐게임 만들기 방법.md",
+    "제텔카스텐 노트/Android ActivityResultLaucncher.md",
+    "제텔카스텐 노트/Android Implicit Intents.md",
     "제텔카스텐 노트/Android URI.md",
     "제텔카스텐 노트/AppsScript 를 Android Java 에서 사용하기.md",
     "무제 파일.canvas",
-    "제텔카스텐 노트/Cpp const pointer.md",
-    "구버전노트/01/Dictionary/Java/기초/Stream - arrayStream.md"
+    "제텔카스텐 노트/Cpp const pointer.md"
   ]
 }
