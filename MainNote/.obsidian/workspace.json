@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/싱글톤.md",
+                "file": "제텔카스텐 노트/Android Implicit Intents.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/싱글톤.md",
+                "file": "제텔카스텐 노트/Android Implicit Intents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/싱글톤.md",
+                "file": "제텔카스텐 노트/Android Implicit Intents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/싱글톤.md"
+                "file": "제텔카스텐 노트/Android Implicit Intents.md"
               }
             }
           }
@@ -265,6 +265,8 @@
   },
   "active": "87980ea8a4939e46",
   "lastOpenFiles": [
+    "제텔카스텐 노트/Android Bundle savedInstanceState.md",
+    "제텔카스텐 노트/싱글톤.md",
     "제텔카스텐 노트/생각노트 2023-02-09.md",
     "제텔카스텐 노트/생각노트 2023-02-04.md",
     "제텔카스텐 노트/생각노트 2023-02-07.md",
@@ -272,8 +274,6 @@
     "제텔카스텐 노트/Unity Quaternion, Euler angle.md",
     "제텔카스텐 노트/Unity SerializeField.md",
     "제텔카스텐 노트/포인터와 운영체제 관계.md",
-    "프로젝트/게임/뒤집기 Reverse.md",
-    "제텔카스텐 노트/Android Bundle savedInstanceState.md",
-    "제텔카스텐 노트/Android getIdentifier.md"
+    "프로젝트/게임/뒤집기 Reverse.md"
   ]
 }
