@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/Unity Quaternion, Euler angle.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Unity Quaternion, Euler angle.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Unity Quaternion, Euler angle.md",
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/Unity Quaternion, Euler angle.md"
+                "file": "제텔카스텐 노트/생각노트 2023-02-09.md"
               }
             }
           }
@@ -253,15 +253,15 @@
   },
   "active": "8890a2d1e28c395f",
   "lastOpenFiles": [
+    "제텔카스텐 노트/생각노트 2023-02-04.md",
+    "제텔카스텐 노트/생각노트 2023-02-07.md",
+    "구버전노트/01/자료/무제노트.md",
+    "제텔카스텐 노트/Unity Quaternion, Euler angle.md",
     "제텔카스텐 노트/Unity SerializeField.md",
     "제텔카스텐 노트/포인터와 운영체제 관계.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Android Bundle savedInstanceState.md",
     "제텔카스텐 노트/Android getIdentifier.md",
-    "제텔카스텐 노트/Android ActivityResultLaucncher.md",
-    "제텔카스텐 노트/Discord bot tutorial.md",
-    "제텔카스텐 노트/생각노트 2023-02-09.md",
-    "제텔카스텐 노트/생각노트 2023-02-07.md",
-    "제텔카스텐 노트/생각노트 2023-02-04.md"
+    "제텔카스텐 노트/Android ActivityResultLaucncher.md"
   ]
 }
