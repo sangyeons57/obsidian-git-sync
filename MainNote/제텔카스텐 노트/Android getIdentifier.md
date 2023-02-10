@@ -4,4 +4,6 @@ res에 값들을 가지고올때는
 R.string.title 처럼 이러한 문법을 사용해야한다
 하지만 동적으로 이름을 가져와야하는경우가 있는데 이때 사용하는것이 이것이다
 [추가공식문서](https://developer.android.com/codelabs/android-training-support-libraries?index=..%2F..%2Fandroid-training#5)
-resources.getIdentifier()
+resources.getIdentifier(name,type,packagename); 이런형태로쓴다
+
+하지만 공식문서를 따라해봤는데 일부분 잘작동하지 않는것같다.
