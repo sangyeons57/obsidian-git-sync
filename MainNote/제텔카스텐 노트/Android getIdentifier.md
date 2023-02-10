@@ -22,7 +22,8 @@ String colorName = mColorArray[random.nextInt(20)];
 int colorResourceName = getResources().getIdentifier(colorName, "color",  
         getApplicationContext().getPackageName());
 //리소스 부분에서 color타입의 colorName이름을 가진 값가지고오기  
-int colorRes = ContextCompat.getColor(this, colorResourceName);  
+int colorRes = ContextCompat.getColor(this, colorResourceName);
+//color가지고오기
 mHelloTextView.setTextColor(colorRes);
 
 ```
