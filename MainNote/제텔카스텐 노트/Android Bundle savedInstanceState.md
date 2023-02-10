@@ -7,3 +7,5 @@ protected void onCreate(Bundle savedInstanceState) {
     setContentView(R.layout.activity_main);
 }
 ```
+savedInstanceState는 Activity가 끝났을때 이전Activity의 값을 가지고오는 것이다.
+(The "savedInstanceState" gets the previous  "Activity" value when the "Activity" was close.)
