@@ -122,9 +122,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87980ea8a4939e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/싱글톤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
+                "file": "제텔카스텐 노트/싱글톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/생각노트 2023-02-09.md",
+                "file": "제텔카스텐 노트/싱글톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/생각노트 2023-02-09.md"
+                "file": "제텔카스텐 노트/싱글톤.md"
               }
             }
           }
@@ -251,8 +263,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8890a2d1e28c395f",
+  "active": "87980ea8a4939e46",
   "lastOpenFiles": [
+    "제텔카스텐 노트/생각노트 2023-02-09.md",
     "제텔카스텐 노트/생각노트 2023-02-04.md",
     "제텔카스텐 노트/생각노트 2023-02-07.md",
     "구버전노트/01/자료/무제노트.md",
@@ -261,7 +274,6 @@
     "제텔카스텐 노트/포인터와 운영체제 관계.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Android Bundle savedInstanceState.md",
-    "제텔카스텐 노트/Android getIdentifier.md",
-    "제텔카스텐 노트/Android ActivityResultLaucncher.md"
+    "제텔카스텐 노트/Android getIdentifier.md"
   ]
 }
