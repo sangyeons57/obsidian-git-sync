@@ -6,4 +6,23 @@ R.string.title 처럼 이러한 문법을 사용해야한다
 [추가공식문서](https://developer.android.com/codelabs/android-training-support-libraries?index=..%2F..%2Fandroid-training#5)
 resources.getIdentifier(name,type,packagename); 이런형태로쓴다
 
-하지만 공식문서를 따라해봤는데 일부분 잘작동하지 않는것같다.
+sample code
+```Java
+
+private String[] mColorArray = {  
+        "red", "pink", "purple", "deep_purple",  
+        "indigo", "blue", "light_blue", "cyan", "teal", "green",  
+        "light_green", "lime", "yellow", "amber", "orange", "deep_orange",  
+        "brown", "grey", "blue_grey", "black" };
+
+Random random = new Random();  
+  
+String colorName = mColorArray[random.nextInt(20)];  
+  
+int colorResourceName = getResources().getIdentifier(colorName, "color",  
+        getApplicationContext().getPackageName());
+//리소스 부분에서 color타입의 colorName이름을 가진 값가지고오기  
+int colorRes = ContextCompat.getColor(this, colorResourceName);  
+mHelloTextView.setTextColor(colorRes);
+
+```
