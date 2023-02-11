@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:프린트",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +263,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "13af45f495d913bb",
+  "active": "a28890acb286492c",
   "lastOpenFiles": [
     "제텔카스텐 노트/Android Bundle savedInstanceState.md",
     "제텔카스텐 노트/싱글톤.md",
