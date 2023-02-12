@@ -44,5 +44,13 @@ Button button = findViewById(R.id.button); button.setOnClickListener(listener);
 이렇게 하면 버튼이 클릭될 때마다 `onClick` 메소드가 호출되어 버튼 클릭 이벤트에 대한 처리를 할 수 있습니다.
 
 <h5>
-
+<pre>
+Button button = findViewById(R.id.button);
+button.setOnClickListener(new View.OnClickListener() {
+	public void onClick(View view) {
+		//이벤트 코드
+	}
+});
+</re>
 </h5>
+
