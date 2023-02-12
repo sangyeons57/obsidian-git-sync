@@ -13,3 +13,6 @@ Yes, you can change the default launch icon for your Android app by following th
 Note that you may need to create multiple versions of your icon for different screen densities, and ensure that they are placed in the corresponding folders.
 
 ## 정리
+manifest 파일에서 icon을 설정하는데
+해당 값은 @minap을 받는다
+project > android 로 프로젝트를 표현할때 
