@@ -9,7 +9,8 @@ android java 에서 onclick은 왜사용하지 말라는 거야?
 
 대신, 개발자는 액티비티에서 뷰 요소의 onClick 속성을 설정하지 말고, 버튼에 대한 클릭 이벤트를 처리하는 데 사용되는 리스너 객체를 사용하십시오. 이는 코드의 유지보수와 가독성을 향상시켜주고, 액티비티의 책임을 분리하여 더 깔끔하고 간결한 코드를 작성할 수 있도록 도와줍니다.
 
-#### onClick 이 많아지면 클레스의 코드가 복잡해진다 따라서 이벤트 리스너 방식을 지향해야한다
+### 정리
+onClick 이 많아지면 클레스의 코드가 복잡해진다 따라서 이벤트 리스너 방식을 지향해야한다
 
 ---
 **Q**
@@ -43,14 +44,14 @@ Button button = findViewById(R.id.button); button.setOnClickListener(listener);
 
 이렇게 하면 버튼이 클릭될 때마다 `onClick` 메소드가 호출되어 버튼 클릭 이벤트에 대한 처리를 할 수 있습니다.
 
-<h5>
-<pre>
+### 정리
+```Java
 Button button = findViewById(R.id.button);
 button.setOnClickListener(new View.OnClickListener() {
 	public void onClick(View view) {
 		//이벤트 코드
 	}
 });
-</re>
-</h5>
+```
+
 
