@@ -16,3 +16,4 @@ Note that you may need to create multiple versions of your icon for different sc
 manifest 파일에서 icon을 설정하는데
 해당 값은 @minap을 받는다
 project > android 로 프로젝트를 표현할때 
+mipmap폴더의 값을 조정해서 실행아이콘을 수정할수있다.
