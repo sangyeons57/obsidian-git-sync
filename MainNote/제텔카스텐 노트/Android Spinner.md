@@ -19,7 +19,14 @@ layout xml 파일
 ```
 
 String array
-``
+```xml
+<string-array name="labels_array">  
+    <item>Home</item>  
+    <item>Work</item>  
+    <item>Mobile</item>  
+    <item>Other</item>  
+</string-array>
+```
 
 Java code
 ``` Java
@@ -56,3 +63,13 @@ public class OrderActivity extends AppCompatActivity implements AdapterView.OnIt
 	}
 }
 ```
+선택되었을때 onItmeSelected에서 이벤트가 발생하고
+parent= adapter = 해당 spinner 
+position = 몇번째 itme인지
+
+view, id 해당 itme에 관한 내요일듯
+
+#spinner 는 #adapter 라는 것과 연결되어야해서 어려운거 같다
+보니까 adapter는 이것 말고도 다른곳에도 쓰이는것 같다
+
+---
