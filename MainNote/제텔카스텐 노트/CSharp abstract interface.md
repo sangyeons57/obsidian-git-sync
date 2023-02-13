@@ -30,3 +30,22 @@ class Program
 ```
 abstract는 자체적으로 인스턴스가 될수 없고
 다른 클레스에서 상속 되어야한다
+
+interface도 비슷한건데 차이점을 보면
+
+#### 접근지정자
+Interface - 접근지정자를 가질수 없고 기본적으로 public 이다
+Abstract - 접근지정자를 가질수 있다.
+#### 구현
+Interface - 구현이 아닌 서명(정의)만 가질수 있다.
+Abstract - 구현을 제공할수 있다.
+#### 속도
+Interface - 인터페이스가 느림
+Abstract - 추상클레스가 빠름
+#### 인스턴스화
+둘다 - 못함
+#### 필드
+Interface - 필드를 가지지 못함
+Abstract - 필드와 상수를 정의할수 있다.
+#### 메소드
+In
