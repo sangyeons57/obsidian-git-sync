@@ -194,9 +194,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e76561f798068a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Unity 에서 github 사용방법.md",
+                "file": "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Unity 에서 github 사용방법.md",
+                "file": "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/Unity 에서 github 사용방법.md"
+                "file": "제텔카스텐 노트/Android 라디오 이벤트 받기.md"
               }
             }
           }
@@ -323,8 +335,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc7483fa0da117f9",
+  "active": "e76561f798068a7b",
   "lastOpenFiles": [
+    "제텔카스텐 노트/Unity 에서 github 사용방법.md",
     "제텔카스텐 노트/Android 실행아이콘 수정.md",
     "제텔카스텐 노트/Android Java onClick.md",
     "제텔카스텐 노트/CSharp readonly.md",
@@ -333,7 +346,6 @@
     "제텔카스텐 노트/Android Implicit Intents.md",
     "제텔카스텐 노트/Android Bundle savedInstanceState.md",
     "제텔카스텐 노트/싱글톤.md",
-    "제텔카스텐 노트/생각노트 2023-02-09.md",
-    "제텔카스텐 노트/생각노트 2023-02-04.md"
+    "제텔카스텐 노트/생각노트 2023-02-09.md"
   ]
 }
