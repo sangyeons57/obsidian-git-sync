@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제텔카스텐 노트/CSharp virtual Override.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/CSharp virtual Override.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/CSharp virtual Override.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/CSharp virtual Override.md"
+                "file": "프로젝트/게임/뒤집기 Reverse.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "2e799ebddfacf6a3",
   "lastOpenFiles": [
-    "제텔카스텐 노트/CSharp abstract interface.md",
     "제텔카스텐 노트/CSharp virtual Override.md",
+    "제텔카스텐 노트/CSharp abstract interface.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Android Spinner.md",
     "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
