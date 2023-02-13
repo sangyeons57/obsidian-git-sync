@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e799ebddfacf6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/CSharp virtual Override.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/CSharp abstract interface.md",
+                "file": "제텔카스텐 노트/CSharp virtual Override.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/CSharp abstract interface.md",
+                "file": "제텔카스텐 노트/CSharp virtual Override.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/CSharp abstract interface.md"
+                "file": "제텔카스텐 노트/CSharp virtual Override.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "755f5d0a6aae37d0",
+  "active": "2e799ebddfacf6a3",
   "lastOpenFiles": [
+    "제텔카스텐 노트/CSharp abstract interface.md",
+    "제텔카스텐 노트/CSharp virtual Override.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Android Spinner.md",
     "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
@@ -168,8 +182,6 @@
     "제텔카스텐 노트/Android 실행아이콘 수정.md",
     "제텔카스텐 노트/Android Java onClick.md",
     "제텔카스텐 노트/CSharp readonly.md",
-    "프로젝트/매인페이지.md",
-    "제텔카스텐 노트/Android Implicit Intents.md",
-    "제텔카스텐 노트/Android Bundle savedInstanceState.md"
+    "프로젝트/매인페이지.md"
   ]
 }

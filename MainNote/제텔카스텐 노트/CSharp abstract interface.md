@@ -1,3 +1,4 @@
+#CSharp #abstract #interface
 #### abstact
 ```csharp
 abstract class Animal 
@@ -48,4 +49,5 @@ Abstract - 추상클레스가 빠름
 Interface - 필드를 가지지 못함
 Abstract - 필드와 상수를 정의할수 있다.
 #### 메소드
-In
+Interface - 추상메소드만 있음
+Abstract - 비추상매소드 도 있을 수 있음
