@@ -31,3 +31,10 @@ class player
 ```CSharp
 Hp = 300; //hp변수의 값이 바뀐다
 ```
+
+자동 프로퍼티
+```CSharp
+public string FirstName {get; set;} = "Park";
+```
+public으로 프로퍼티를 생성하면 자동으로 위의 과정을다해줘
+변수는 private이고 get set으로만 접근할수 있게 된다.
