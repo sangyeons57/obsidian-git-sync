@@ -27,7 +27,7 @@ class player
 그럼 이 value를 가지고 getter setter를 간단하게 만드는거다
 특징으로는 public으로된 Hp 라는 변수를 추가적으로 만드는거다
 사용하는 방식은 일반적인 변수와 같다
-데신에 getter와 setter가 만들어져있는 Hp 변수 hp볏
+데신에 getter와 setter가 만들어져있는 Hp 변수 hp변수값을 참조한나다
 ```CSharp
-Hp =
+Hp = 300; //hp변수의 값이 바뀐다
 ```
