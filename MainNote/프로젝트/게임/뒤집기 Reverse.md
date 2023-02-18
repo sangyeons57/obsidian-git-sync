@@ -23,6 +23,11 @@
 ### block.cs
 화면에 보이는 둘수있는 각각의 블럭에 들아갈 스크립트이다
 
+colorDict : 특정상태를 가진 상태가들어올때 해당 색에 맞는 색을 주기위해만든 사전
+	void: 아직 클릭이 안된상태
+	Red, Blue :자신 색
+
+changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 colorDict에 맞춰서 색을 변환시키는 함수
 
 ---
 ### Reverse.cs

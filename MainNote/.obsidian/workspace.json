@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e27898081724bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/게임/뒤집기 Reverse.md",
+                "file": "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/게임/뒤집기 Reverse.md",
+                "file": "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/게임/뒤집기 Reverse.md"
+                "file": "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md"
               }
             }
           }
@@ -195,11 +207,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "95f077f58424b71f",
+  "active": "1e27898081724bee",
   "lastOpenFiles": [
+    "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/CSharp 프로퍼티.md",
     "제텔카스텐 노트/CSharp params.md",
-    "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/CSharp abstract interface.md",
     "제텔카스텐 노트/CSharp virtual Override.md",
     "제텔카스텐 노트/Android Spinner.md",
