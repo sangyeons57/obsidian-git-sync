@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/게임/멀티 1대1 2D총게임.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/게임/멀티 1대1 2D총게임.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/게임/멀티 1대1 2D총게임.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/게임/멀티 1대1 2D총게임.md"
+                "file": "프로젝트/게임/뒤집기 Reverse.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "ba40c8426802bd77",
   "lastOpenFiles": [
+    "프로젝트/게임/멀티 1대1 2D총게임.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Unity Tmp, using에 존제하지 않는 문제.md",
     "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md",
@@ -229,7 +230,6 @@
     "제텔카스텐 노트/CSharp abstract interface.md",
     "제텔카스텐 노트/CSharp virtual Override.md",
     "제텔카스텐 노트/Android Spinner.md",
-    "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
-    "제텔카스텐 노트/Unity 에서 github 사용방법.md"
+    "제텔카스텐 노트/Android 라디오 이벤트 받기.md"
   ]
 }
