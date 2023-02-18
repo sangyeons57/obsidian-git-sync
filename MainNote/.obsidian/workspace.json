@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Unity Tmp, using에 존제하지 않는 문제.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Unity Tmp, using에 존제하지 않는 문제.md",
+                "file": "프로젝트/게임/뒤집기 Reverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/Unity Tmp, using에 존제하지 않는 문제.md"
+                "file": "프로젝트/게임/뒤집기 Reverse.md"
               }
             }
           }
@@ -207,8 +207,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1ecf5a3876480e5d",
+  "active": "95f077f58424b71f",
   "lastOpenFiles": [
+    "제텔카스텐 노트/Unity Tmp, using에 존제하지 않는 문제.md",
     "프로젝트/게임/뒤집기 Reverse.md",
     "제텔카스텐 노트/Unity 2D오브젝트 클릭확인 방법.md",
     "제텔카스텐 노트/CSharp 프로퍼티.md",
@@ -217,7 +218,6 @@
     "제텔카스텐 노트/CSharp virtual Override.md",
     "제텔카스텐 노트/Android Spinner.md",
     "제텔카스텐 노트/Android 라디오 이벤트 받기.md",
-    "제텔카스텐 노트/Unity 에서 github 사용방법.md",
-    "제텔카스텐 노트/Android 실행아이콘 수정.md"
+    "제텔카스텐 노트/Unity 에서 github 사용방법.md"
   ]
 }

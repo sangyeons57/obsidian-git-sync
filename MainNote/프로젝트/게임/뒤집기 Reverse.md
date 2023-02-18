@@ -34,7 +34,12 @@ changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 color
 게임 실행에 전체코드가 들어가있다
 
 #### class Piece
+한칸이 가져야할 정보들을 가지고있다
+각 block과 인스턴스에 1대1 연결이 되어있다.
 
+Status : enum으로 각piece의 상태를표현하는데 사용
+
+intace
 
 #### class PieceList
 #### class Reverse
