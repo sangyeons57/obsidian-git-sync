@@ -76,6 +76,19 @@ piece들을 다 가지고있는 함수이고
 
 - flip: flip을 직접적으로 실행하는 함수이다. 플레이와 같은 상태은 piece를 만나기 전까지 제귀함수를 이용하여 각piece에 상태를 바꾼다
 
-- changePlayerStatus: 플레이어턴을 바꾼다 
+- changePlayerStatus: 플레이어턴을 바꾼다 그리고 플레이어에 턴이 바뀔때 턴이바뀌었다고 표시한다.
+
+### class counterClass 
+Blue,Red의 개수를 새고 승패를 확인하기위해 만든 클래스
 
 ### class Reverse
+코드를 실행시키는부분
+
+- Start
+	piece사이의 거리와 크기를 설정한다
+	piece를 생성하여 pieceList를 넣고 instaceSetting을 한다
+	기본적으로세팅해야할 가운데 4칸에색을 칠한다
+- Update
+	space를 누르면 턴을 넘길수있는기능
+	승패가 결정되면 그결과를 보여주는 부분
+	
