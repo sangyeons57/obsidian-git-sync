@@ -57,4 +57,14 @@ piece들을 다 가지고있는 함수이고
 
 - checkAllPieceChanged: 게임이 끝났는지 확인할때 사용하는 함수이다.  blue,red개수를 세는 기능이 포함되어있다.
 
-#### class Reverse
+- setFocus: focus를 설정하고 설정한 PieceList클래스를 돌려준다.
+
+- searchDirection: 자신에게 들어온 direction을 이용해 해당 방향으로 둘수있는지확인한다 
+	- false를 반환하는경우는
+		- piece가 존재하지 않거나
+		- status가 null이거나
+		- 자신과 같은 상태(색)을 가진 piece를 만났지만 바로옆에 있는 경우이다.
+	  - true를 반환하는 경우는
+		  - 프
+  
+### class Reverse
