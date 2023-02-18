@@ -19,7 +19,9 @@
 3.기본적으로 게임시작할때 4개블록이 존재하는것을 구현해야해
 
 
+
 ---
+[코드 block Class](https://github.com/sangyeons57/ReverseGame/blob/main/ReverseGame/Assets/Script/Reverse/block.cs)
 ## block.cs
 화면에 보이는 둘수있는 각각의 블럭에 들아갈 스크립트이다
 
@@ -30,6 +32,7 @@ colorDict : 특정상태를 가진 상태가들어올때 해당 색에 맞는 �
 changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 colorDict에 맞춰서 색을 변환시키는 함수
 
 ---
+[코드 Reverse Class](https://github.com/sangyeons57/ReverseGame/blob/main/ReverseGame/Assets/Script/Reverse/Reverse.cs)
 ## Reverse.cs
 게임 실행에 전체코드가 들어가있다
 
@@ -94,4 +97,5 @@ Blue,Red의 개수를 새고 승패를 확인하기위해 만든 클래스
 	현재 blue와 red의 개수를 보여주는 부분
 
 
-[코드]()
+[코드 Reverse Class](https://github.com/sangyeons57/ReverseGame/blob/main/ReverseGame/Assets/Script/Reverse/Reverse.cs)
+[코드 block Class](https://github.com/sangyeons57/ReverseGame/blob/main/ReverseGame/Assets/Script/Reverse/block.cs)
