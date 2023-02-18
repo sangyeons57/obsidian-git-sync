@@ -22,3 +22,12 @@
 ---
 ### block.cs
 화면에 보이는 둘수있는 각각의 블럭에 들아갈 스크립트이다
+
+
+---
+### Reverse.cs
+게임 실행에 전체코드가 들어가있다
+
+#### class Piece
+#### class PieceList
+#### main
