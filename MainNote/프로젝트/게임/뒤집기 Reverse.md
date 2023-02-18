@@ -37,9 +37,15 @@ changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 color
 한칸이 가져야할 정보들을 가지고있다
 각 block과 인스턴스에 1대1 연결이 되어있다.
 
-Status : enum으로 각piece의 상태를표현하는데 사용
+- Status : enum으로 각piece의 상태를표현하는데 사용
 
-intace
+- intaceSetting: piece를 생성한직후 piece에 연결될 block과 인스턴스를 설정하기위해 있는함수 block위치,크기,부모와 block내부설정을 한다
+
+- apply: 자신의status를 block color에 적용
+
+- checkXY: piece를 식별할때 XY값을 이용해 같은지 확인하는 함수
+
+- playerInput: 플레이가 클릭할수있는 부분에 클릭했는지 확인하고 뒤집기를 실행한다 잘못된곳일경우 상태를 원상복구시킨다.
 
 #### class PieceList
 #### class Reverse
