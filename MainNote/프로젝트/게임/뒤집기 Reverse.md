@@ -20,7 +20,7 @@
 
 
 ---
-### block.cs
+## block.cs
 화면에 보이는 둘수있는 각각의 블럭에 들아갈 스크립트이다
 
 colorDict : 특정상태를 가진 상태가들어올때 해당 색에 맞는 색을 주기위해만든 사전
@@ -30,10 +30,10 @@ colorDict : 특정상태를 가진 상태가들어올때 해당 색에 맞는 �
 changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 colorDict에 맞춰서 색을 변환시키는 함수
 
 ---
-### Reverse.cs
+## Reverse.cs
 게임 실행에 전체코드가 들어가있다
 
-#### class Piece
+### class Piece
 한칸이 가져야할 정보들을 가지고있다
 각 block과 인스턴스에 1대1 연결이 되어있다.
 
@@ -47,5 +47,14 @@ changesetColorMode : 특정상태가들어오면 자기자신인 블럭을 color
 
 - playerInput: 플레이가 클릭할수있는 부분에 클릭했는지 확인하고 뒤집기를 실행한다 잘못된곳일경우 상태를 원상복구시킨다.
 
-#### class PieceList
+### class PieceList
+piece들을 다 가지고있는 함수이고
+피스 명령을 내릴때 사용하는 클레스이다
+
+- directoin: 뒤집을수있는 곳을 탐색할때 사용할 8가지 방향정보를 가지고있는 2차원배열이다.
+
+- getPiece: pieceList에서 ceckXY를 활용해 x,y값을 받아 해당조건에 맞는 piece를 찾으면 반환 해준다
+
+- checkAllPieceChanged: 게임이 끝났는지 확인할때 사용하는 함수이다.  blue,red개수를 세는 기능이 포함되어있다.
+
 #### class Reverse
