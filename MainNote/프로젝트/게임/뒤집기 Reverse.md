@@ -69,5 +69,13 @@ piece들을 다 가지고있는 함수이고
 	  - 값을 반환할수없을때는 재귀함수형태로, 가지고있는 방향만큼에 있는 piece를 가진체로 재귀함수를 실행한다. 
 
 	주어진방향으로 피스를 한칸씩 옴겨가면서 재귀함수를 실행하는 함수이다.
-  
+
+- flipDirectionAction: flipDirection을 8방향으로 실행할수있게 도와주는 함수이다.
+
+- flipDirection: searchDirection을 이용해 해당방향으로 둘수있는지 확인하다음에 둘수있는경우 뒤집기를 실행한다, 플레이어가 둔곳도 상태가 Void가 되지 않게 고정한다
+
+- flip: flip을 직접적으로 실행하는 함수이다. 플레이와 같은 상태은 piece를 만나기 전까지 제귀함수를 이용하여 각piece에 상태를 바꾼다
+
+- changePlayerStatus: 플레이어턴을 바꾼다 
+
 ### class Reverse
