@@ -44,10 +44,16 @@ public override void OnJoinedLobby() {}
 ```CSharp
 PhotonNetwork.CreateRoom(roomName, new RoomOptions{Maxlayers = 2}, null);
 //룸을 만든다 Room Options밑에 설명
+//만드는데성공한경우 OnCreatreRoom, OnJoinedRoom을 실행한다.
 
 PhotonNetwork.JoinRoom(roomName);
 //rooname으로 방참가
-PhotonNetwork.JoinOrCreateRoom(roomName);
+PhotonNetwork.JoinOrCreateRoom(roomName, new RoomOptions { MaxPlayers = 2}, null);
+//방이없다면 방을만들고, 있다면 참가한다.
+PhotonNetwork.JoinRandomRoom();
+//랜덤한 룸에 입장
+PhotonNetwork.LeaveRoom();
+//룸떠나기
 
 
 public override void OnCreatedRoom()
