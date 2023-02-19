@@ -42,12 +42,25 @@ public override void OnJoinedLobby() {}
 방을 만들거나 참가할때는 connect되어있던가 Lobby에 있어야한다.
 
 ```CSharp
-PhotonNetwork.CreateRoom(roomName, new RoomOptions{Maxlayers = 2});
-//룸을 만든다
+PhotonNetwork.CreateRoom(roomName, new RoomOptions{Maxlayers = 2}, null);
+//룸을 만든다 Room Options밑에 설명
+
+PhotonNetwork.JoinRoom(roomName);
+//rooname으로 방참가
+PhotonNetwork.JoinOrCreateRoom(roomName);
+
+
 public override void OnCreatedRoom()
 //방이 만들어진 경우
 public override void OnJoinedRoom()
-//방이 들억 경우
+//방이 들어가진 경우
+
+public override void OnCreatedRoomFailed()
+//방이 만들어진걸 실패한 경우
+public override void OnJoinedRoomFailed()
+//방이 들어가진걸 실패한 경우
+public override void OnJoinedRandomFailed()
+//랜덤방 참가 실패
 
 ```
 RoomOption 들
