@@ -54,6 +54,7 @@ PhotonNetwork.JoinRandomRoom();
 //랜덤한 룸에 입장
 PhotonNetwork.LeaveRoom();
 //룸떠나기
+//룸에서떠나면 로비가아닌 connect상태로 들어간다.
 
 
 public override void OnCreatedRoom()
