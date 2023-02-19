@@ -43,7 +43,11 @@ public override void OnJoinedLobby() {}
 
 ```CSharp
 PhotonNetwork.CreateRoom(roomName, new RoomOptions{Maxlayers = 2});
-
+//룸을 만든다
+public override void OnCreatedRoom()
+//방이 만들어진 경우
+public override void OnJoinedRoom()
+//방이 들억 경우
 
 ```
 RoomOption 들
