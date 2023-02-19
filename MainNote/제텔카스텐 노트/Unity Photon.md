@@ -16,6 +16,10 @@ MonoBehaviourPunCallbacks
 ```CSharp
 PhotonNetwork.NetworkClientState.ToString();
 //내트워크 연결 상태를 준다
+PhotonNetwork.LocalPlayer.NickName =
+//이걸로 클라이언트 닉네임을 설정한다.
+//OnConnectedToMaster에서 상용한다.
+
 
 PhotonNetwork.ConnectUsingSettings();
 //connect연결
@@ -31,6 +35,7 @@ public override void OnDisconnected() {}
 
 PhotonNetwork.JoinLobby();
 //로비접속
-public ovv
-
+public override void OnJoinedLobby() {}
+//로비 접속했을대 실행
 ```
+방을 만들거나 참가할때는 connect되어있던가 Lobby에 있어야한다.
