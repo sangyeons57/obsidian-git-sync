@@ -165,3 +165,4 @@ prefeb에 Photon View 와  Photon transform view를 추가해야한다.
 
 또한 PhotonNetwork Instantiate로 생성된 오브젝트는 master가 게임을 나갈경우 해당 master인 오브젝트는 사라진다.
 
+### Photon master 구별
