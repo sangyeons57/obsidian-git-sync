@@ -219,4 +219,5 @@ RpcTarget종류
 -   `Proxies`: can be sent / is executed by a peer who does not have either Input Authority or State Authority over the object.
 -   `InputAuthority`: can be sent / is executed by the peer with Input Authority over the object.
 -   `StateAuthority`: can be sent / is executed by the peer with State Authority over the object.
-
+RpcTarget.All : 즉시 호출되어 사라짐 (방전체)
+RpcTarget.AllBuffered : 재접속될때 호출됨 
