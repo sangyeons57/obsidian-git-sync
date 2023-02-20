@@ -142,6 +142,14 @@ ContextMenu("정보")
 -   NoRandomMatchFound = 32760
 
 
+### Photon View
+특정 무언가를 동기화 할때 쓰인다.
+동기화 할려면 photon View는 기본적으로 있어야한다.
+
+photon translate view : 위치 크기 이동 동기화 기능
+master인 client에서 움직여야 master가 아닌 클라이언트에서 도움직인다.
+master가 아닌 클라이언트 에서 움직인 오브젝트는 master가 아니므로 이동이 동기화가 안된다.
+
 ### PhotonNetwork Instantiate
 모든 클라이언트에 오브젝트를 생성해야할때 쓰는 함수다
 그러니까 Instatiate에 공유형이라고 생각하면 된다
@@ -155,4 +163,5 @@ prefeb이름은 Resources 폴더안에 있는 prefeb만 작동한다.
 또한 움직임 등을 공유하고 싶을때는
 prefeb에 Photon View 와  Photon transform view를 추가해야한다.
 
-또한 PhotonNetwork Instantiate로 생성된 오브젝트는 masterㄱ
+또한 PhotonNetwork Instantiate로 생성된 오브젝트는 master가 게임을 나갈경우 해당 master인 오브젝트는 사라진다.
+
