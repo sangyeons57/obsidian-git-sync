@@ -140,3 +140,8 @@ ContextMenu("정보")
   
 **JoinRandomRoom operation / OnJoinRandomFailed:  
 -   NoRandomMatchFound = 32760
+
+
+### PhotonNetwork Instantiate
+모든 클라이언트에 오브젝트를 생성해야할때 쓰는 함수다
+그러니까 Instatiate에 공유형이
