@@ -108,3 +108,6 @@ else
 ```
 ContextMenu("정보")
 이렇게 하면 networkManeger에서 우클릭해서 "정보"를 클릭해 실행할수있다.
+
+
+falied되었을때 
