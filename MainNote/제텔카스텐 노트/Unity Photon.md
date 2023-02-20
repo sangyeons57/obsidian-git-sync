@@ -147,6 +147,7 @@ ContextMenu("정보")
 동기화 할려면 photon View는 기본적으로 있어야한다.
 
 photon translate view : 위치 크기 이동 동기화 기능
+photon Animator View : 애니메이터 동기화 기능
 master인 client에서 움직여야 master가 아닌 클라이언트에서 도움직인다.
 master가 아닌 클라이언트 에서 움직인 오브젝트는 master가 아니므로 이동이 동기화가 안된다.
 
