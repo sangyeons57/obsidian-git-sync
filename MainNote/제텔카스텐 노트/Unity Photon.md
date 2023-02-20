@@ -165,4 +165,17 @@ prefeb에 Photon View 와  Photon transform view를 추가해야한다.
 
 또한 PhotonNetwork Instantiate로 생성된 오브젝트는 master가 게임을 나갈경우 해당 master인 오브젝트는 사라진다.
 
-### Photon master 구별
+### Photon master 구별된 행동
+```CSharp
+public PhotonView pv;
+
+void Update ()
+{
+	if (pv.isMine)
+	{
+		//실행코드
+	}
+}
+```
+pv에서 동기화 하기위해 만들었던 photonView 컴포넌트를 넣어준다.
+이렇게하면 모든 해당스크립트를 가진 각 클리이언트에서 만들어진 오브젝트가 움직이느게 아니라 마스터인 오브젝트만 움직인다.
