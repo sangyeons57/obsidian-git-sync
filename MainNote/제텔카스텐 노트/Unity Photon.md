@@ -222,3 +222,10 @@ RpcTarget종류
 -   `StateAuthority`: can be sent / is executed by the peer with State Authority over the object.
 RpcTarget.All : 즉시 호출되어 사라짐 (방전체)
 RpcTarget.AllBuffered : 재접속될때 호출됨 
+
+
+## 변수 sync
+IPunObservable를 추가로 구현해야한다.
+```CSharp
+public void OnPhotonSerial
+```
