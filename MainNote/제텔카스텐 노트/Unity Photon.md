@@ -110,4 +110,33 @@ ContextMenu("정보")
 이렇게 하면 networkManeger에서 우클릭해서 "정보"를 클릭해 실행할수있다.
 
 
-falied되었을때 
+### falied되었을때 returnCode
+**Common errors:**  
+-   OperationNotAllowedInCurrentState = -3 (rare)
+-   InvalidOperation = -2 (should not happen in PUN)
+-   InternalServerError = -1 (rare)
+
+  
+**CreateRoom operation / OnCreateRoomFailed:**  
+-   ServerFull = 32762 (rare)
+-   GameIdAlreadyExists = 32766
+-   PluginReportedError = 32752 (in case you use server plugin)
+-   PluginMismatch = 32751 (in case you use server plugin)
+-   SlotError = 32742 (in case you use ExpectedUsers)
+
+  
+**JoinRoom operation / OnJoinRoomFailed:  
+-   GameFull = 32765
+-   GameClosed = 32764
+-   GameDoesNotExist = 32758
+-   PluginReportedError = 32752 (in case you use server plugin)
+-   PluginMismatch = 32751 (in case you use server plugin)
+-   JoinFailedPeerAlreadyJoined = 32750
+-   JoinFailedFoundInactiveJoiner = 32749
+-   JoinFailedWithRejoinerNotFound = 32748 (for Rejoin)
+-   JoinFailedFoundExcludedUserId = 32747 (I think not used currently)
+-   JoinFailedFoundActiveJoiner = 32746
+-   SlotError = 32742 (in case you use ExpectedUsers)
+  
+**JoinRandomRoom operation / OnJoinRandomFailed:  
+-   NoRandomMatchFound = 32760
