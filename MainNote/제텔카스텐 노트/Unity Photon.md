@@ -194,11 +194,18 @@ void Update ()
 
 }
 [PunRPC]
-void SpecialFunction
-
-
+void SpecialFunctionRPC (int parameter)
+{
+	Debug.Log("WOW");
+}
 ```
+일반적으로 이렇게 쓰인다.
+우선 해당 master에서 RPC 를 부르면 
+	따라서 if (pv.isMine) 을 해야함
+다른 클리이언트에서 해당 PhotonView를 포함한 오브젝트에 함수를 실행시킨다
+RPC(함수이름, RpcTarget. 해당 함수의 인자들);
 
+그리고 RPC에서 불릴 함수에는 ```[PunRPC]```가 쓰여야한다.
 
 
 서버에 접속할때 player오브젝트에 player 스크립트가 생긴체로 생성된다고하면
