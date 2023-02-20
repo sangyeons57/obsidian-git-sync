@@ -227,5 +227,9 @@ RpcTarget.AllBuffered : 재접속될때 호출됨
 ## 변수 sync
 IPunObservable를 추가로 구현해야한다.
 ```CSharp
-public void OnPhotonSerial
+public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+{
+	if(stream.IsWriting) stream.SendNext(something);
+	else something = (type)stream.ReceiveNext();
+}
 ```
