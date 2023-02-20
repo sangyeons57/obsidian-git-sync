@@ -154,3 +154,5 @@ public override void OnJoinedRoom()
 prefeb이름은 Resources 폴더안에 있는 prefeb만 작동한다. 
 또한 움직임 등을 공유하고 싶을때는
 prefeb에 Photon View 와  Photon transform view를 추가해야한다.
+
+또한 PhotonNetwork Instantiate로 생성된 오브젝트는 masterㄱ
