@@ -144,4 +144,13 @@ ContextMenu("정보")
 
 ### PhotonNetwork Instantiate
 모든 클라이언트에 오브젝트를 생성해야할때 쓰는 함수다
-그러니까 Instatiate에 공유형이
+그러니까 Instatiate에 공유형이라고 생각하면 된다
+```CSharp
+public override void OnJoinedRoom()
+{
+	PhotonNetwork.Instantiate("prefeb이름", 위치값, 각도값)
+}
+```
+prefeb이름은 Resources 폴더안에 있는 prefeb만 작동한다. 
+또한 움직임 등을 공유하고 싶을때는
+prefeb에 Photon View 와  Photon transform view를 추가해야한다.
