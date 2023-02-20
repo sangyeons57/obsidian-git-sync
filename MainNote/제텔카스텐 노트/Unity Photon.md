@@ -181,6 +181,27 @@ pv에서 동기화 하기위해 만들었던 photonView 컴포넌트를 넣어�
 이렇게하면 모든 해당스크립트를 가진 각 클리이언트에서 만들어진 오브젝트가 움직이느게 아니라 마스터인 오브젝트만 움직인다.
 
 ### PhtonView.RPC
+PhotonView.RPC는 해당 PhotonView가 포함된 모든 오브젝트 스크립트 에서 특정 함수를 실행시키는 함수이다.
+```CSharp
+public PhotonView pv;
+
+void Update ()
+{
+	if (pv.isMine)
+	{
+		pv.RPC("SpecialFunctionRPC", RpcTarget, parameter);
+	}
+
+}
+[PunRPC]
+void SpecialFunction
+
+
+```
+
+
+
 서버에 접속할때 player오브젝트에 player 스크립트가 생긴체로 생성된다고하면
 1. 플레이어가 한명일때는 자신에 것만있으니 1개
-2. 플레이어가 두면일때는
+2. 플레이어가 두명일때는 A의 것과 B의것 A에 표시되는 B의것 B에 표시되는A의 것     총 2x2 = 4 4개 가있다.
+3. 즉 3명은 3x3 = 9개 의 스크립트를 가지게 된다.
