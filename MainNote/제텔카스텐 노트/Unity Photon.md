@@ -233,3 +233,23 @@ public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
 	else something = (type)stream.ReceiveNext();
 }
 ```
+
+stream.IsWriting과
+stream.IsReading로 주는것과 받는걸 확인할수있다
+여러게 할때는
+```CSharp
+public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+{
+	if(stream.IsWriting)
+	{
+		stream.SendNext(something);
+		stream.SendNext(something2);
+	}
+	else
+	{
+	 something = (type)stream.ReceiveNext();
+	 something2 = (type)stream.ReceiveNext();
+	}
+}
+```
+이렇게 하면된다.
