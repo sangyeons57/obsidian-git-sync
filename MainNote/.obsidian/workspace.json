@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "2efb0907d3c98b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐 노트/Unity 2D 마우스방향으로 슈팅하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ecf5a3876480e5d",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제텔카스텐 노트/Photon 외부RPC 부르는 방법.md",
+                "file": "제텔카스텐 노트/Unity 2D 마우스방향으로 슈팅하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제텔카스텐 노트/Photon 외부RPC 부르는 방법.md",
+                "file": "제텔카스텐 노트/Unity 2D 마우스방향으로 슈팅하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제텔카스텐 노트/Photon 외부RPC 부르는 방법.md"
+                "file": "제텔카스텐 노트/Unity 2D 마우스방향으로 슈팅하기.md"
               }
             }
           }
@@ -267,10 +279,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "be5a590da045839d",
+  "active": "2efb0907d3c98b01",
   "lastOpenFiles": [
-    "제텔카스텐 노트/Unity Jump System.md",
     "제텔카스텐 노트/Photon 외부RPC 부르는 방법.md",
+    "제텔카스텐 노트/Unity 2D 마우스방향으로 슈팅하기.md",
+    "제텔카스텐 노트/Unity Jump System.md",
     "제텔카스텐 노트/Unity Photon.md",
     "제텔카스텐 노트/CSharp base.md",
     "프로젝트/게임/뒤집기 Reverse.md",
