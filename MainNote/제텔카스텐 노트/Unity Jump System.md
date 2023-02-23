@@ -16,3 +16,19 @@ if ( isGround &&  (Input.GetKeyDown(KeyCode.W) ||
 	)) pv.RPC("JumpRPC", RpcTarget.All);
 }
 ```
+
+OverlapCircle(위치, 크기, 필터)
+필터는 레이어 번호인데
+0 : 필터없음
+1: 1번레이어
+2: 2번레이어
+4: 3번레이어
+8: 4번레이어
+16: 5번레이어
+
+이런식으로 2배식 늘어난다
+따라서 5번레이어를 체크하고 싶으면 16을써야한다.
+1 << LayerMask.NameToLayer("Groud") 는 이걸 표현한거다
+Ground레이어의 번호가 들어오면
+비트연산을 해서 자동으로 2배씩 계산해준다
+
